@@ -1,0 +1,348 @@
+<html>
+<head>
+  <title>North Ryde Soccer - Match Reports - 28 April 2012</title>
+  <meta http-equiv="content-type" content="text/html;charset=ISO-8859-1" />
+  <meta name="keywords" content="north ryde soccer club" />
+  <meta name="description" content="North Ryde Soccer Club" />
+  <script type="text/javascript" src="javascript/nrs_scripts.js"></script>
+  <link type="text/css" rel="stylesheet" href="stylesheets/nrs_styles.css" />
+  <link type="image/x-icon" rel="icon" href="images/objects/favicon.ico" />
+  <link type="image/x-icon" rel="shortcut icon" href="images/objects/favicon.ico" />
+</head>
+<body onload="loadReports();">
+<script type="text/javascript">function Go() {return;}</script>
+<script type="text/javascript" src="javascript/menu_variables.js"></script>
+<script type="text/javascript" src="javascript/menu.js"></script>
+<noscript>Your browser does not support JavaScript</noscript>
+<table class="pagearea" cellspacing="0" cellpadding="0">
+<!-- Top section -->
+<tr class="bgblue">
+  <td>
+    <table class="fullwidth" cellspacing="0" cellpadding="0">
+    <!-- Logo and emblem -->
+    <tr>
+      <td>
+        <a href="index.php">
+        <img class="noborder" src="images/objects/nrs_logo.gif" alt="Click for Front Page"></a>
+      </td>
+      <td rowspan="3">
+        <table align="right" cellspacing="0" cellpadding="0">
+        <tr>
+          <td><img class="noborder" src="images/objects/nrs_emblem.jpg"></td>
+        </tr>
+        </table>
+      </td>
+    </tr>
+     <!-- Site menu -->
+    <?php readfile("topmenu.inc"); ?> 
+    <!-- Spacer -->
+    <tr><td class="spacermediumY"></td></tr>
+    </table>
+  </td>
+</tr>
+<!-- Menu and main content -->
+<tr>
+  <td>
+    <table cellspacing="0" cellpadding="0">
+    <tr>
+      <!-- Menu -->
+      <td class="menuarea"></td>
+      <!-- Main content -->
+      <td class="contentarea top">
+        <table class="fullwidth" cellspacing="0" cellpadding="0">
+        <!-- Page title and submenu -->
+        <tr>
+          <td class="titlearea">
+            <table class="fullwidth" cellspacing="0" cellpadding="0">
+            <tr>
+              <!-- Page title -->
+              <td>
+                <table cellspacing="0" cellpadding="0">
+                <tr>
+                  <td class="title"><a class="titlelink" href="reports.php">&nbsp;MATCH REPORTS&nbsp;</a></td>
+                  <td>></td>
+                  <td class="titleclear">&nbsp;28 APRIL 2012&nbsp;</td>
+                </tr>
+                </table>
+              </td>
+            </tr>
+            </table>
+          </td>
+        </tr>
+        <!-- Spacer -->
+        <tr><td class="spacermediumY"></td></tr>
+        <tr><td class="spacermediumY"></td></tr>
+        <!-- Page content -->
+        <tr>
+          <td>
+            <table align="center" class="contentwidth" cellspacing="0" cellpadding="0">
+            <tr>
+              <td>
+                <table class="fullwidth" cellspacing="0" cellpadding="0">
+                <tr>
+                  <td class="forte">Match Report - 28 April 2012</td>
+                  <td>
+                    <table class="right" cellspacing="0" cellpadding="0">
+                    <tr>
+                      <form>
+                      <td>
+					  &nbsp;
+                        <!--select size="1" name="reportList" onchange="openReportList();"></select-->
+                      </td>
+                      </form>
+                    </tr>
+                    </table>
+                  </td>
+                </tr>
+                </table>
+              </td>
+            </tr>
+            <tr><td class="spacersmallY"></td></tr>
+            <tr>
+              <td>
+                <table cellspacing="0" cellpadding="0">
+                <tr>
+                  <td class="small">On this page:</td>
+                  <td class="spacersmallX"></td>
+				  <td class="pagemenu"><a class="pagemenulink" href="#u6divGreenA">&nbsp;U6&nbsp;</a></td>
+                                  <td class="pagemenu"><a class="pagemenulink" href="#u7divGreenA">&nbsp;U7&nbsp;</a></td>
+                                  <td class="pagemenu"><a class="pagemenulink" href="#u8divGreen">&nbsp;U8&nbsp;</a></td>
+                                  <td class="pagemenu"><a class="pagemenulink" href="#u9div4">&nbsp;U9&nbsp;</a></td>
+                </tr>
+                </table>
+              </td>
+            </tr>
+            <tr><td class="spacersmallY"></td></tr>
+			<tr><td><hr/></td></tr>
+            <tr>
+              <td class="forte">
+                <a name="u6divGreenA">U6 Green A</a>
+                <span class="green">&nbsp;&nbsp;</span>
+              </td>
+            </tr>
+            <tr><td class="spacermediumY"></td></tr>
+            <tr>
+              <td class="reporttext">
+                A great game was had by all.
+MQ had us on our toes today scoring 4 to 1.
+<br><br>
+Great runs down the sidelines by Lachlan Chaseling and Naeel.
+Maggie and Conner were great defenders while Harry and Lachlan passed the
+ball nicely.
+Paddy was missed today, see you next week.
+<br><br>
+Congrats to Naeel who took home the Player of the match trophy.
+<br/><br/>
+- Denise Daber
+                
+              </td>
+            </tr>
+            <tr><td class="spacerlargeY"></td></tr>
+
+<tr><td><hr/></td></tr>
+            <tr>
+              <td class="forte">
+                <a name="u6divGreenB">U6 Green B</a>
+                <span class="green">&nbsp;&nbsp;</span>
+              </td>
+            </tr>
+            <tr><td class="spacermediumY"></td></tr>
+            <tr>
+              <td class="reporttext">
+                Well done team, and well done to Holy Cross College too.  It was a lovely
+morning down at Magdala Oval and the boy's were ready to run! Great goals,
+some good passing this week and 
+best all of the boy's showed great sportsmanship on and off the field, we
+are very proud of them all.  Good luck for this Saturday Boy's!
+<br/><br/>
+- Tamara Henderson
+   <img class="noborder imgleft" src="images/photos/u6/20120428_u6_green_b_small.jpg">             
+              </td>
+            </tr>
+            <tr><td class="spacerlargeY"></td></tr>
+      		  
+		   <tr><td><hr/></td></tr>
+            <tr>
+              <td class="forte">
+                <a name="u6divWhiteA">U6 White A</a>
+                <span class="green">&nbsp;&nbsp;</span>
+              </td>
+            </tr>
+            <tr><td class="spacermediumY"></td></tr>
+            <tr>
+              <td class="reporttext">
+                A lovely cool dry day at Morrison and the Under 6 White A team went straight on the
+attack but Ryde Panthers A in their sky blue shirts kept U6WA quiet for a while.
+Isabel tried a few cheeky tight angle shots but there was no score until Isabel and
+Sophia burst through the middle of the sky blue pack and popped one in the net. Then
+the goals started to flow. Loki was everywhere. Rushing around in attack then racing
+back like a terrier to stop Ryde from scoring. 
+
+<br><br>
+In the 2nd half, Loki ran the length of the field around the side of the sky blues
+to score a spectacular goal ! When Loki went off, Isabel took over - buzzing around
+like a blue and yellow bumble bee scoring a well-deserved goal. Then Loki combined
+with Sophia to burst through the sky blues again, Sophia finished it off neatly.
+Meanwhile Andrew stopped a few promising Ryde moves - more to come from Andrew I
+think. Ben and Kerry also played their part in a great 7 - 0 win. 
+<br><br>
+
+Well done guys ! Loki deservedly got the trophy for Best on Field and I have to say,
+the girls in particular were great today ! 
+
+                <br/><br/>
+                - Richard Greenwood
+              </td>
+            </tr>
+            <tr><td class="spacerlargeY"></td></tr>
+
+
+<tr><td><hr/></td></tr>
+            <tr>
+              <td class="forte">
+                <a name="u7divYellowA">U7 Yellow A</a>
+                <span class="green">&nbsp;&nbsp;</span>
+              </td>
+            </tr>
+            <tr><td class="spacermediumY"></td></tr>
+            <tr>
+              <td class="reporttext">
+              Our first Game at Woolwich and all the team arrived at 9am for the pre-game
+training session to practice skills, passing  and positioning. Well Done
+everyone it certainly showed on the field today. Thanks to Kelly for
+arranging a drink caddy - how professional we looked!!!! Exceptional team
+spirit is seen in the U7 Yellow A team with only soccer fun is in their
+thoughts and supporting each other win, lose, or draw. 
+<br><br>
+The team took the field without their mate Will, as the dirt bikes had
+called him for a fun weekend away with the boys. The All Saintsb team
+scored a quick 2 goals in the first 10 minutes, but were evened up with a
+reply from Blake to make it 2 all. The teams were evenly matched and
+unfortunately Christian came off injured after an incident but the team
+rallied on to keep the score even. Scarlet and Elijah made some excellent
+runs down the sideline and Jasmine showed her skills in centre. Christian,
+Blake and Michael steered the play from the half line just as they
+practiced. All players were passing and supporting  each other, Michael made
+some excellent runs in attack and scored 2 excellent goals. Elijah,
+Christian, Jasmine and Scarlet all made several great attacking shots but
+were a little wide or saved on the line by the All Saints team......the
+sideline were holding their breath. The All Saints got the ball across the
+line on the final whistle. What great game for all the spectators.
+<br><br>
+ Special note goes to Peter for all the hard work he is putting into his
+role as coach, we all appreciate your commitment to the team and the great
+job you are doing.  Oliver and Freya are exhibited excellent managing skills
+with their time keeping, rotating the subs, handling drinks, passing out
+oranges at half time and taking photos - what a support crew. A
+well-deserved play at the park together after the game was a great finish.
+<br><br>
+Player of the week this week was awarded to Elijah for an excellent game
+attacking and defending.
+                <br/><br/>
+                - Sarah Robson
+              </td>
+            </tr>
+            <tr><td class="spacerlargeY"></td></tr>
+		  
+		  <tr><td><hr/></td></tr>
+            <tr>
+              <td class="forte">
+                <a name="u7divYellowB">U7 Yellow B</a>
+                <span class="green">&nbsp;&nbsp;</span>
+              </td>
+            </tr>
+            <tr><td class="spacermediumY"></td></tr>
+            <tr>
+              <td class="reporttext">
+               Another beautiful day for football.  The boys were hyped, and the stage was
+set for what turned out to be one of the hardest fought, and evenly matched
+games I've seen.
+<br><br>
+After a number of chances from both sides, the deadlock was broken just
+before half time, when Ben Harris found himself in space.  He dribbled the
+ball up the left, and drove it into the net.  1 - 0 to North Ryde.
+<br><br>
+The second half was just as tough.  The Dragons came out fired up, and
+eventually their efforts paid off.  A momentary lapse in an otherwise solid
+defense, allowed the Dragons to equalize.  1 - 1.
+<br><br>
+It looked as though the match was destined to be a draw, until Oliver
+"Steam Train" Watson jumped on a loose ball and blasted it into the back of
+the net.  Feeling very please with himself, he turned to his Mum and Dad
+and gave a double thumbs up.  :)  2 -1 North Ryde.
+<br><br>
+Final Score 2 - 1.  A win for North Ryde.
+Player of the week:  Oliver Watson.   Well done Oli!
+                <br/><br/>
+                - Steve Harris
+              </td>
+            </tr>
+            <tr><td class="spacerlargeY"></td></tr>
+
+<tr><td><hr/></td></tr>
+            <tr>
+              <td class="forte">
+                <a name="u8divGreen">U8 Green</a>
+                <span class="green">&nbsp;&nbsp;</span>
+              </td>
+            </tr>
+            <tr><td class="spacermediumY"></td></tr>
+            <tr>
+              <td class="reporttext">
+               What a great game!  The kids all put in gutsy performances against an aggressive tackling team.  We had some first-rate goal-keeping from both Jonathan and Charlie, with Charlie going on to take Player of the Match with some fancy on-field footwork.  Well done everyone!
+                <br/><br/>
+                - Carmel Crook
+              </td>
+            </tr>
+            <tr><td class="spacerlargeY"></td></tr>
+		  
+            <tr><td><hr/></td></tr>
+            <tr>
+              <td class="forte">
+                <a name="u9div4">U9 Division 4</a>
+                <span class="green">&nbsp;&nbsp;1 - 0</span>
+              </td>
+            </tr>
+            <tr><td class="spacermediumY"></td></tr>
+            <tr>
+              <td class="reporttext">
+                Today's game was against North Epping Rangers and we knew we may have had our first challenge on our hands. This team was undefeated with a goal difference of 10 for and only 1 against. 
+<br><br>
+Our game plan was to play a bit more cautiously and more defensively so we could maintain our record of not conceding a goal. 
+<br><br>
+We started the game well by attacking the opposition's goal and in the first few minutes we got the reward, a penalty was given to us for a hand ball. We have been practising how to take penalties, so Kyle stepped up and made no mistake giving 1:0 to us. 
+<br><br>
+After that, the game was more even.  We had to defend, then attack, the game just had that free flowing feeling that was very exciting to watch by both sides.  There were many good individual efforts and some team work as well. 
+<br><br>
+In the second half we changed Keeper and Brooklyn had to work those goalie gloves.  North Epping had a couple of good shots which needed to be saved and the ball nicely stuck to our Keeper.  After that we had more possession of the ball and the majority of the play was in the opposition's half. With some luck and more determination at times we could have scored more goals.  We had a couple of unlucky shots and the ball was on the goal line twice, but we could not put over it. Most of the boys are really keeping to their positions now and thinking more tactically about their passing which enabled us to maintain the pressure.
+<br><br>
+The final score was 1:0. We kept our record of no goals scored against us. Let's hope our hard work continues to pay off. Well done to all of the boys.
+                <br/><br/>
+                - Tibor Balogh<br>
+                - Lisa Shaw
+              </td>
+            </tr>
+            <tr><td class="spacerlargeY"></td></tr>       
+
+
+            </table>
+          </td>
+        </tr>
+        <!-- Spacer -->
+        <tr><td class="spacerlargeY"></td></tr>
+        <tr><td class="spacerlargeY"></td></tr>
+        <!-- Copyright -->
+        <?php readfile("copyright.inc"); ?>
+        <!-- Spacer -->
+        <tr><td class="spacersmallY"></td></tr>
+        </table>
+      </td>
+    </tr>
+    </table>
+  </td>
+</tr>
+</table>
+<!-- Spacer -->
+<br/><br/>
+</body>
+</html>

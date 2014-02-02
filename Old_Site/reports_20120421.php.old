@@ -1,0 +1,374 @@
+<html>
+<head>
+  <title>North Ryde Soccer - Match Reports - 21 April 2012</title>
+  <meta http-equiv="content-type" content="text/html;charset=ISO-8859-1" />
+  <meta name="keywords" content="north ryde soccer club" />
+  <meta name="description" content="North Ryde Soccer Club" />
+  <script type="text/javascript" src="javascript/nrs_scripts.js"></script>
+  <link type="text/css" rel="stylesheet" href="stylesheets/nrs_styles.css" />
+  <link type="image/x-icon" rel="icon" href="images/objects/favicon.ico" />
+  <link type="image/x-icon" rel="shortcut icon" href="images/objects/favicon.ico" />
+</head>
+<body onload="loadReports();">
+<script type="text/javascript">function Go() {return;}</script>
+<script type="text/javascript" src="javascript/menu_variables.js"></script>
+<script type="text/javascript" src="javascript/menu.js"></script>
+<noscript>Your browser does not support JavaScript</noscript>
+<table class="pagearea" cellspacing="0" cellpadding="0">
+<!-- Top section -->
+<tr class="bgblue">
+  <td>
+    <table class="fullwidth" cellspacing="0" cellpadding="0">
+    <!-- Logo and emblem -->
+    <tr>
+      <td>
+        <a href="index.php">
+        <img class="noborder" src="images/objects/nrs_logo.gif" alt="Click for Front Page"></a>
+      </td>
+      <td rowspan="3">
+        <table align="right" cellspacing="0" cellpadding="0">
+        <tr>
+          <td><img class="noborder" src="images/objects/nrs_emblem.jpg"></td>
+        </tr>
+        </table>
+      </td>
+    </tr>
+     <!-- Site menu -->
+    <?php readfile("topmenu.inc"); ?> 
+    <!-- Spacer -->
+    <tr><td class="spacermediumY"></td></tr>
+    </table>
+  </td>
+</tr>
+<!-- Menu and main content -->
+<tr>
+  <td>
+    <table cellspacing="0" cellpadding="0">
+    <tr>
+      <!-- Menu -->
+      <td class="menuarea"></td>
+      <!-- Main content -->
+      <td class="contentarea top">
+        <table class="fullwidth" cellspacing="0" cellpadding="0">
+        <!-- Page title and submenu -->
+        <tr>
+          <td class="titlearea">
+            <table class="fullwidth" cellspacing="0" cellpadding="0">
+            <tr>
+              <!-- Page title -->
+              <td>
+                <table cellspacing="0" cellpadding="0">
+                <tr>
+                  <td class="title"><a class="titlelink" href="reports.php">&nbsp;MATCH REPORTS&nbsp;</a></td>
+                  <td>></td>
+                  <td class="titleclear">&nbsp;21 APRIL 2012&nbsp;</td>
+                </tr>
+                </table>
+              </td>
+            </tr>
+            </table>
+          </td>
+        </tr>
+        <!-- Spacer -->
+        <tr><td class="spacermediumY"></td></tr>
+        <tr><td class="spacermediumY"></td></tr>
+        <!-- Page content -->
+        <tr>
+          <td>
+            <table align="center" class="contentwidth" cellspacing="0" cellpadding="0">
+            <tr>
+              <td>
+                <table class="fullwidth" cellspacing="0" cellpadding="0">
+                <tr>
+                  <td class="forte">Match Report - 21 April 2012</td>
+                  <td>
+                    <table class="right" cellspacing="0" cellpadding="0">
+                    <tr>
+                      <form>
+                      <td>
+					  &nbsp;
+                        <!--select size="1" name="reportList" onchange="openReportList();"></select-->
+                      </td>
+                      </form>
+                    </tr>
+                    </table>
+                  </td>
+                </tr>
+                </table>
+              </td>
+            </tr>
+            <tr><td class="spacersmallY"></td></tr>
+            <tr>
+              <td>
+                <table cellspacing="0" cellpadding="0">
+                <tr>
+                  <td class="small">On this page:</td>
+                  <td class="spacersmallX"></td>
+				  <td class="pagemenu"><a class="pagemenulink" href="#u6divGreenA">&nbsp;U6&nbsp;</a></td>
+                                  <td class="pagemenu"><a class="pagemenulink" href="#u7divGreenA">&nbsp;U7&nbsp;</a></td>
+				  <td class="pagemenu"><a class="pagemenulink" href="#u8divGreen">&nbsp;U8&nbsp;</a></td>
+                                  <td class="pagemenu"><a class="pagemenulink" href="#u9div4">&nbsp;U9&nbsp;</a></td>
+                                  <td class="pagemenu"><a class="pagemenulink" href="#AAdiv20">&nbsp;AA&nbsp;</a></td>
+                </tr>
+                </table>
+              </td>
+            </tr>
+            <tr><td class="spacersmallY"></td></tr>
+			<tr><td><hr/></td></tr>
+            <tr>
+              <td class="forte">
+                <a name="u6divGreenA">U6 Green A</a>
+                <span class="green">&nbsp;&nbsp;</span>
+              </td>
+            </tr>
+            <tr><td class="spacermediumY"></td></tr>
+            <tr>
+              <td class="reporttext">
+                North Ryde U/6 Green walked out onto the pitch looking smart and confident
+in their new uniforms for the first time as a team, smiles all round.
+<br><br>
+Its not long before the goals started flowing, Connor is first off the
+mark. Closely following are goals by Naael and the two Lachies. Its amazing
+how well they played together passing, dribbling and attacking, after such
+little time training. More goals are kicked after oranges at half time
+(thanks Kelly), Maggie manages to sneak one in.
+<br><br>
+Well done to Harry for winnning Player of the game. We were proud of you
+all and cant wait to watch you have fun again next week.
+<br><br>
+Thanks to Denise, Fiona and Jo for their help on the day
+<br/><br/>
+- Denise Daber
+<img class="noborder imgleft" src="images/photos/u6/20120421_U6GreenA.JPG">
+                
+              </td>
+            </tr>
+            <tr><td class="spacerlargeY"></td></tr>
+          
+		  <tr><td><hr/></td></tr>
+            <tr>
+              <td class="forte">
+                <a name="u6divGreenB">U6 Green B</a>
+                <span class="green">&nbsp;&nbsp;</span>
+              </td>
+            </tr>
+            <tr><td class="spacermediumY"></td></tr>
+            <tr>
+              <td class="reporttext">
+               Well played boys you were "Awesome"
+                <br/><br/>
+                - Stinky Monkey
+              </td>
+            </tr>
+            <tr><td class="spacerlargeY"></td></tr>
+		  
+		   <tr><td><hr/></td></tr>
+            <tr>
+              <td class="forte">
+                <a name="u6divWhiteA">U6 White A</a>
+                <span class="green">&nbsp;&nbsp;</span>
+              </td>
+            </tr>
+            <tr><td class="spacermediumY"></td></tr>
+            <tr>
+              <td class="reporttext">
+                Under 6 white A got off to a great start for the season. In full uniform, the
+looked like a real team and as the game began we saw that they also played like a
+real team. There was great passing between everyone. Kerry, Ben and Raphael did some
+great kick-ins and Isabel can tackle! Loki and Sophia had a great goal scoring
+routine which they must have devised themselves. Putney Rangers were a sound
+opposition and while they scored a beautiful goal, it just wasn't enough compared to
+our seven. Well done kids!
+                <br/><br/>
+                - Helen Fitzsimons
+              </td>
+            </tr>
+            <tr><td class="spacerlargeY"></td></tr>
+
+<tr><td><hr/></td></tr>
+            <tr>
+              <td class="forte">
+                <a name="u7divGreenA">U7 Green A</a>
+                <span class="green">&nbsp;&nbsp;</span>
+              </td>
+            </tr>
+            <tr><td class="spacermediumY"></td></tr>
+            <tr>
+              <td class="reporttext">
+                A great start to the season for the Under 7 Green A team although very evenly
+matched with a 0 - 0 score at half time.  Some encouragement and sustenance at half
+time saw the boys reinvigorated and working as a team to put Luke in the clear for
+the first goal of the season.  Shortly after Eli scored another great goal and it
+looked like the boys had hit their stride but full credit to the Dragons who hit
+back and leveled the score soon after.  The game progressed evenly again for a while
+with both sides trying hard but a great winning goal from Cameron near full time
+resulted in a first match victory for the Under 7 Green A's.
+                <br/><br/>
+                - Richard Stehn
+              </td>
+            </tr>
+            <tr><td class="spacerlargeY"></td></tr>
+
+<tr><td><hr/></td></tr>
+            <tr>
+              <td class="forte">
+                <a name="u7divWhiteA">U7 White A</a>
+                <span class="green">&nbsp;&nbsp;</span>
+              </td>
+            </tr>
+            <tr><td class="spacermediumY"></td></tr>
+            <tr>
+              <td class="reporttext">
+               The first game of the season and the kids were so excited! Their warmup was very
+energetic... we had to remind them there was still an actual game to play! And we
+only had 6 players, so only 1 sub available today. 
+<br><br>
+Kickoff time and almost before we knew it, Tyler had dribbled the ball from half way and scored a wonderful goal. His
+2nd year of soccer and first goal EVER! yay Tyler!The ball then went back and forth
+with everyone in amongst it, especially Claire who was always right in the middle of
+the action. A sideline kick from Will went straight to Ryan and then straight into
+the goal! Great teamwork! And Dylan helped celebrate by doing his patented happy
+run/ dance.
+<br><br>
+The other team scored, but not long after, Ryan scored again for U7 White
+(aka The Funnel Webs) In the 2nd half the team was getting tired but Alex raced back
+to stop a goal inches before it went in, such disappointment for the other team,
+such excitement for us! Not long after, Will did the same. The team has definitely
+improved its defensive skills! One more goal to the other team and everyone was 
+relieved to rest when time was up - thanks for the lollies Donna! 
+Thanks for umpiring Tony. And thanks to coach Lisa!!
+                <br/><br/>
+                - Alison Horn
+<img class="noborder imgleft" src="images/photos/u7/20120421_U7WhiteA.jpg">
+              </td>
+            </tr>
+            <tr><td class="spacerlargeY"></td></tr>
+
+<tr><td><hr/></td></tr>
+            <tr>
+              <td class="forte">
+                <a name="u7divYellowA">U7 Yellow A</a>
+                <span class="green">&nbsp;&nbsp;</span>
+              </td>
+            </tr>
+            <tr><td class="spacermediumY"></td></tr>
+            <tr>
+              <td class="reporttext">
+              After all the rain during the week we were not sure if we would get to play
+the first game of the 2012 season. Luckily we got to enjoy the view at
+Morrison Bay Park and play a great game of soccer to finish off the school
+holidays.
+<br><br>
+It was a fast start from the Ryde saints and the teams were equally
+matched. NRSC focused on starting to hold positions now we are U7's and
+work on our passing strategy. This was very effective. The Ryde Saints
+scored a couple of quick goals leading 2-0 and Will's precision kicks
+ensured that this was not for long and the half time was a 3-2 lead to
+Ryde. The game continues with excellent skills showcased by both teams and
+with Will, Jasmine and Christian all scoring we ended up with a 6-5 win.
+Scarlet had a great game with some excellent long kicks down the wing,
+Elijah tackeled and held his sideline well. Blake made some strong tackles
+and cleared the ball well.  Michael made some good supportive long balls
+and Jasmine showed her moves in the Forwards. Christian and Will were great
+in defense and the parents enjoyed the kindness of Liz's coffee run which
+meant she missed 3 of 4 of Will's awesome goals. The Player of the match
+this week went to Will Harrison for excellent team playing both in attack
+and defense.
+<br><br>
+Welcome back to the field everyone. We look forward to a lot of fun this
+year.
+                <br/><br/>
+                - Oliver Robson
+              </td>
+            </tr>
+            <tr><td class="spacerlargeY"></td></tr>
+		  
+		  <tr><td><hr/></td></tr>
+            <tr>
+              <td class="forte">
+                <a name="u8divGreen">U8 Green</a>
+                <span class="green">&nbsp;&nbsp;0 - 9</span>
+              </td>
+            </tr>
+            <tr><td class="spacermediumY"></td></tr>
+            <tr>
+              <td class="reporttext">
+                On the weekend were out-sized and out-skilled by Northern HFC, but this didn't dampen the enthusiasm of our team who all put in a big effort for the full 40 minutes.  
+				In spite of having a loss, I think everyone, both on the field and the sidelines, would agree that it was great to be back for the start of the 2012 season.  
+				We're all looking forward to the kids having a fantastic season, getting fit and having fun.
+                <br/><br/>
+                - Carmel Crook
+              </td>
+            </tr>
+            <tr><td class="spacerlargeY"></td></tr>
+		  
+            <tr><td><hr/></td></tr>
+            <tr>
+              <td class="forte">
+                <a name="u9div4">U9 Division 4</a>
+                <span class="green">&nbsp;&nbsp;11 - 0</span>
+              </td>
+            </tr>
+            <tr><td class="spacermediumY"></td></tr>
+            <tr>
+              <td class="reporttext">
+                Today's game was against Hills Hawks, the team which lost 12:0 the week before. We were all thinking what could have been behind that result. Maybe they didn't enough players due to the holidays? 
+<br><br>
+Anyhow, we put in our usual preparation and professional approach for the game at Hayes Park, Galston and the boys walked up to the field in one line ready for the toss and shook hands.
+Our team started well and the first goal came from our number 10 (Roman) who played Left Midfield at the time. The second goal was scored from our number 9 (Kyle) also from the Midfield. The third goal was scored by Brooklyn who played as a Centre Back.  Two more goals from Kyle and Brooklyn took us into half time at 5:0.
+<br><br>
+Since our strikers did not manage to score, we changed our line up and the second half's new striking force put 6 more goals in the opposition's net bringing the final score to 11:0. 
+<br><br>
+Goal scorers:  Roman 1, Kyle 4, Brooklyn 3, Luka 2, Matthew 1 
+A clean sheet achieved again for our 2 keepers, Connor and Lachlan.  Lachlan performed well in this position with Connor playing more like an out field player.  A great result team, well done to all of you! 
+
+                <br/><br/>
+                - Tibor Balogh
+              </td>
+            </tr>
+            <tr><td class="spacerlargeY"></td></tr>
+            
+                       <tr><td><hr/></td></tr>
+            <tr>
+              <td class="forte">
+                <a name="AAdiv20">AA Division 20</a>
+                <span class="green">&nbsp;&nbsp;1 - 0</span>
+              </td>
+            </tr>
+            <tr><td class="spacermediumY"></td></tr>
+            <tr>
+              <td class="reporttext">
+                Round 2 saw North Ryde looking to build on their first round win with another solid performance. On a warm day they started the game stongly with the midfield putting together some neat passes and controlling the tempo well. It appeared that the opening goal would come but in the final third (not aided by a slightly damp pitch) that last pass did not find its mark and at half time it was 0-0.
+<br><br>
+The second half saw West Ryde Rovers start to string some passes together and several neat balls saw them getting in behind the North Ryde defences. With the North Ryde passing game not providing the outlet it did in the first half the key moment of the game saw the old route 1 approach paying dividends. After winning a free kick in their own have North Ryde launched a ball forward which was well trapped by Dan Child who promptly turned past the last defender and poked the ball home for a 1-0 lead. It was probably a harsh result for the Rovers team but after the frustration of the first half North Ryde had the lead they craved and, despite a few more tense moments, held on and recorded their second victory.
+<br><br>
+So overall there are encouraging signs for 2012. The positives have been parts of the midfield play and composure around goal while the team still needs to work better together to win and keep posession. Hopefully that will come with more game time. Our next game is at North Ryde Oval on Sunday, April 29 so we will find out more answers then.
+
+                <br/><br/>
+                - Simon Gobbo
+              </td>
+            </tr>
+            <tr><td class="spacerlargeY"></td></tr>            
+
+
+            </table>
+          </td>
+        </tr>
+        <!-- Spacer -->
+        <tr><td class="spacerlargeY"></td></tr>
+        <tr><td class="spacerlargeY"></td></tr>
+        <!-- Copyright -->
+        <?php readfile("copyright.inc"); ?>
+        <!-- Spacer -->
+        <tr><td class="spacersmallY"></td></tr>
+        </table>
+      </td>
+    </tr>
+    </table>
+  </td>
+</tr>
+</table>
+<!-- Spacer -->
+<br/><br/>
+</body>
+</html>

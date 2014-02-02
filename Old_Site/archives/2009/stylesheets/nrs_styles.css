@@ -1,0 +1,748 @@
+/*****************************************************************************************
+ *****                                                                               *****
+ ***                               GENERAL DEFINITIONS                                 ***
+ *****                                                                               *****
+ *****************************************************************************************/
+
+/*****************************************************************************************
+ Background Colour
+ *****************************************************************************************/
+.bgred       {background-color:#cc0000}
+.bgtan       {background-color:#ffcc99}
+.bgblue      {background-color:#003399}
+.bglblue     {background-color:#f0f2fe}
+.bglgreen    {background-color:#d3f9d3}
+.bgyellow    {background-color:#ffffcc}
+.bgdyellow   {background-color:#ffd700}
+.bgturquoise {background-color:#ccffff}
+
+/*****************************************************************************************
+ Body
+ *****************************************************************************************/
+body
+{
+  margin:0px;
+  color:#003399;
+  background-color:#003399;
+  font-family:verdana,arial,helvetica,sans-serif
+}
+
+/*****************************************************************************************
+ Border
+ *****************************************************************************************/
+.noborder       {border:0px}
+.dotted         {border-style:dotted}
+.dashed         {border-style:dashed}
+.border         {border:1px solid #003399}
+.borderthick    {border:2px solid #003399}
+.borderlight    {border:1px solid #cddeed}
+.bordermedium   {border:1px solid #78a0c8}
+
+/*****************************************************************************************
+ Buttons
+ *****************************************************************************************/
+.table.buttongreen td
+{
+  width:160px;
+  color:#ffffff;
+  font-size:10px;
+  font-weight:bold;
+  line-height:20px;
+  border:1px solid #000000;
+  background-color:#007777
+}
+
+a.buttongreenlink:link    {display:block;color:#ffffff;text-decoration:none}
+a.buttongreenlink:visited {display:block;color:#ffffff;text-decoration:none}
+a.buttongreenlink:active  {display:block;color:#ffffff;text-decoration:none}
+a.buttongreenlink:hover   {display:block;color:#000000;background-color:#ffffcc}
+
+/*****************************************************************************************
+ Colour
+ *****************************************************************************************/
+.red    {color:#cc0000}
+.blue   {color:#003399}
+.green  {color:#007777}
+.grey   {color:#cccccc}
+.lgrey  {color:#aaaaaa}
+.white  {color:#ffffff}
+.yellow {color:#ffd700}
+
+/*****************************************************************************************
+ Cursor
+ *****************************************************************************************/
+.hand    {cursor:hand}
+.pointer {cursor:pointer}
+
+/*****************************************************************************************
+ Dynamic content
+ *****************************************************************************************/
+.dynamicheader
+{
+  cursor:hand;
+  padding-bottom:4px;
+  border-bottom:1px solid #cddeed
+}
+
+.dynamiccontent
+{
+  padding:8px;
+  color:#003399;
+  line-height:16px;
+  text-align:justify;
+  border-bottom:1px solid #cddeed
+}
+
+.openheader
+{
+  color:#cc0000;
+  font-weight:bold;
+  border-bottom:0px
+}
+
+.closeheader
+{
+  color:#007777;
+  font-weight:bold
+}
+
+/*****************************************************************************************
+ Font
+ *****************************************************************************************/
+.small  {font-size:10px}
+.large  {font-size:12px}
+.bold   {font-weight:bold}
+.italic {font-style:italic}
+.forte  {font-size:110%;font-family:forte}
+
+.bigletter
+{
+  float:left;
+  width:0.2em;
+  font-size:300%;
+  line-height:100%;
+  font-family:algerian,courier
+}
+
+/*****************************************************************************************
+ Horizontal Rule
+ *****************************************************************************************/
+hr {height:1px;color:#003399;background-color:transparent}
+
+/*****************************************************************************************
+ Input Areas
+ *****************************************************************************************/
+body,input,p,select,td,textarea
+{
+  color:#003399;
+  font-size:11px;
+  white-space:wrap;
+  font-style:normal;
+  font-weight:normal;
+  font-family:verdana,helvetica,arial,sans-serif
+}
+
+/*****************************************************************************************
+ Links
+ *****************************************************************************************/
+a:link    {color:#003399;background-color:transparent}
+a:visited {color:#003399;background-color:transparent}
+a:active  {color:#003399;background-color:transparent}
+a:hover   {color:#003399;background-color:transparent;text-decoration:none}
+
+/*****************************************************************************************
+ Lists
+ *****************************************************************************************/
+li        {padding:4px}
+ul.square {list-style:outside square}
+ul.disc   {list-style:outside disc }
+ul.circle {list-style:outside circle}
+ul.alpha  {list-style:outside lower-alpha}
+ul.roman  {list-style:outside lower-roman}
+
+/*****************************************************************************************
+ Position
+ *****************************************************************************************/
+.left     {float:left}
+.right    {float:right}
+.top      {vertical-align:top}
+.middle   {vertical-align:middle}
+.baseline {vertical-align:baseline}
+.bottom   {vertical-align:text-bottom}
+
+/*****************************************************************************************
+ Text
+ *****************************************************************************************/
+.wrap         {white-space:normal}
+.nowrap       {white-space:nowrap}
+.textright    {text-align:right}
+.textcenter   {text-align:center}
+.textjustify  {text-align:justify}
+.overline     {text-decoration:overline}
+.underline    {text-decoration:underline}
+.linethrough  {text-decoration:line-through}
+.nodecoration {text-decoration:none}
+
+/*****************************************************************************************
+ *****                                                                               *****
+ ***                          NORTH RYDE SOCCER DEFINITIONS                            ***
+ *****                                                                               *****
+ *****************************************************************************************/
+
+/*****************************************************************************************
+ Alerts
+ *****************************************************************************************/
+.alertbox
+{
+  color:#ffffff;
+  font-size:10px;
+  font-weight:bold;
+  padding-left:2px;
+  padding-right:2px;
+  padding-bottom:1px;
+  background-color:#cc0000
+}
+
+/*****************************************************************************************
+ Archives
+ *****************************************************************************************/
+table.archivesmenu {border:1px solid #cddeed}
+table.archivesmenu td {padding:2px;line-height:16px;border:1px solid #cddeed}
+
+table.archivelist td {line-height:18px;padding-left:16px}
+
+.archivemenuwidth   {width:24%}
+.archivemenuspacerX {width:1%}
+
+.archivewidth   {width:32%}
+.archivespacerX {width:2%}
+
+/*****************************************************************************************
+ Calendar
+ *****************************************************************************************/
+.calendarwidth   {width:30%}
+.calendarspacerX {width:2%}
+
+.calendarheader
+{
+  width:14%;
+  color:#000000;
+  font-size:10px;
+  font-weight:bold;
+  text-align:center;
+  background-color:#cddeed
+}
+
+.calendaropen
+{
+  color:#78a0c8;
+  font-size:10px;
+  text-align:center
+}
+
+.calendarreport
+{
+  color:#cc0000;
+  font-size:10px;
+  font-weight:bold;
+  text-align:center
+}
+
+a.calendarlink:link    {color:#cc0000;background-color:transparent;text-decoration:none}
+a.calendarlink:visited {color:#cc0000;background-color:transparent;text-decoration:none}
+a.calendarlink:active  {color:#cc0000;background-color:transparent;text-decoration:none}
+a.calendarlink:hover   {display:block;color:#ffffff;background-color:#003399}
+
+/*****************************************************************************************
+ Canteen
+ *****************************************************************************************/
+table.canteen {border:1px solid #cddeed}
+table.canteen td {padding:2px;line-height:16px;border:1px solid #cddeed}
+
+.canteenmenuc1 {width:25%}
+.canteenmenuc2 {width:75%}
+
+.canteenitemmenuc1      {width:80%}
+.canteenitemmenuc2      {width:20%}
+.canteenitemmenuwidth   {width:48%}
+.canteenitemmenuspacerX {width:4%}
+
+.canteenrosterc1      {width:25%}
+.canteenrosterc2      {width:15%}
+.canteenrosterc3      {width:15%}
+.canteenrosterc4      {width:45%}
+.canteenrosterwidth   {width:48%}
+.canteenrosterspacerX {width:4%}
+
+/*****************************************************************************************
+ Club Contacts
+ *****************************************************************************************/
+table.clubcontacts {border:1px solid #cddeed}
+table.clubcontacts td {padding:2px;line-height:16px;border:1px solid #cddeed}
+
+.clubcontactc1 {width:28%}
+.clubcontactc2 {width:22%}
+.clubcontactc3 {width:22%}
+.clubcontactc4 {width:28%}
+
+/*****************************************************************************************
+ Club Details
+ *****************************************************************************************/
+table.clubdetails {border:1px solid #cddeed}
+table.clubdetails td {padding:2px;line-height:16px;border:1px solid #cddeed}
+
+.clubmenuc1 {width:25%}
+.clubmenuc2 {width:75%}
+
+/*****************************************************************************************
+ Dimension
+ *****************************************************************************************/
+.half        {width:50%}
+.twofifths   {width:38%}
+.threefifths {width:58%}
+
+.spacersmallX  {width:10px}
+.spacermediumX {width:15px}
+.spacerlargeX  {width:20px}
+.spacersmallY  {height:10px}
+.spacermediumY {height:15px}
+.spacerlargeY  {height:20px}
+
+.fullwidth    {width:100%}
+.contentwidth {width:960px}
+.menuarea     {width:138px;background-color:#003399}
+.pagearea     {width:1138px;border:1px solid #003399}
+.contentarea  {width:1000px;background-color:#ffffff}
+
+/*****************************************************************************************
+ Events
+ *****************************************************************************************/
+table.events {border:1px solid #cddeed}
+table.events td {padding:2px;line-height:16px;border:1px solid #cddeed}
+
+.eventsc1 {width:15%}
+.eventsc2 {width:35%}
+.eventsc3 {width:15%}
+.eventsc4 {width:35%}
+
+/*****************************************************************************************
+ Finalists
+ *****************************************************************************************/
+.finalistspacerX {width:2%}
+.finalistspacerY {height:5px}
+
+.finalistbox
+{
+  width:49%;
+  padding:8px;
+  vertical-align:top;
+  text-align:justify
+}
+
+/*****************************************************************************************
+ Front Page
+ *****************************************************************************************/
+table.fpresults {border:1px solid #cddeed}
+table.fpresults td {padding:2px;line-height:14px;border:1px solid #cddeed}
+
+.fpspacerX {width:4%}
+
+.fpminitable1 {width:20%}
+.fpminitable2 {width:50%}
+.fpminitable3 {width:10%}
+.fpminitable4 {width:10%}
+.fpminitable5 {width:10%}
+
+.fprestable1 {width:20%}
+.fprestable2 {width:30%}
+.fprestable3 {width:10%}
+.fprestable4 {width:10%}
+.fprestable5 {width:10%}
+.fprestable6 {width:10%}
+.fprestable7 {width:10%}
+
+.fpfinalsschedule1 {width:20%}
+.fpfinalsschedule2 {width:16%}
+.fpfinalsschedule3 {width:14%}
+.fpfinalsschedule4 {width:25%}
+.fpfinalsschedule5 {width:25%}
+
+.fpfinalsresults1 {width:20%}
+.fpfinalsresults2 {width:30%}
+.fpfinalsresults3 {width:12%}
+.fpfinalsresults4 {width:12%}
+.fpfinalsresults5 {width:16%}
+.fpfinalsresults6 {width:10%}
+
+.fpnewsc1 {width:20%}
+.fpnewsc2 {width:25%}
+.fpnewsc3 {width:55%}
+
+.fpvideoc1 {width:15%}
+.fpvideoc2 {width:15%}
+.fpvideoc3 {width:40%}
+.fpvideoc4 {width:15%}
+.fpvideoc5 {width:15%}
+
+/*****************************************************************************************
+ Galleries
+ *****************************************************************************************/
+table.galleries {border:1px solid #cddeed}
+table.galleries td {padding:2px;line-height:16px;border:1px solid #cddeed}
+
+.galleriesmenuc1 {width:25%}
+.galleriesmenuc2 {width:75%}
+
+/*****************************************************************************************
+ Grounds
+ *****************************************************************************************/
+table.grounds {border:1px solid #cddeed}
+table.grounds td {padding:2px;line-height:16px;border:1px solid #cddeed}
+table.map td {padding:4px}
+
+.groundsmenuc1 {width:25%}
+.groundsmenuc2 {width:75%}
+
+.groundsframe {width:955px;height:700px}
+
+.mapwidth   {width:24%}
+.mapspacerX {width:1%}
+
+/*****************************************************************************************
+ Images
+ *****************************************************************************************/
+.imgleft     {float:left; margin-left:0px; margin-right:15px;margin-top:10px;margin-bottom:10px}
+.imgtopleft  {float:left; margin-left:0px; margin-right:15px;margin-top:0px; margin-bottom:10px}
+.imgright    {float:right;margin-left:15px;margin-right:0px; margin-top:10px;margin-bottom:10px}
+.imgtopright {float:right;margin-left:15px;margin-right:0px; margin-top:0px; margin-bottom:10px}
+
+div.img320 {width:320px;color:#666666;font-size:10px;margin-left:50px;text-align:justify}
+div.img360 {width:360px;color:#666666;font-size:10px;margin-left:50px;text-align:justify}
+
+/*****************************************************************************************
+ Library
+ *****************************************************************************************/
+table.library td {line-height:18px;padding-left:16px}
+
+.librarywidth   {width:49%}
+.libraryspacerX {width:2%}
+
+/*****************************************************************************************
+ Links
+ *****************************************************************************************/
+.linksspacerX {width:1%}
+.linksspacerY {height:40px}
+
+.linksbox
+{
+  width:33%;
+  padding:8px;
+  text-align:center;
+  vertical-align:middle
+}
+
+/*****************************************************************************************
+ Menus
+ *****************************************************************************************/
+.pagemenu
+{
+  height:16px;
+  color:#003399;
+  font-size:10px;
+  font-weight:bold;
+  line-height:16px;
+  padding-left:6px;
+  padding-right:6px
+}
+
+a.pagemenulink:link    {color:#003399;text-decoration:none}
+a.pagemenulink:visited {color:#003399;text-decoration:none}
+a.pagemenulink:active  {color:#003399;text-decoration:none}
+a.pagemenulink:hover   {color:#ffffff;display:block;background-color:#003399}
+
+.sitemenu
+{
+  height:16px;
+  color:#ffd700;
+  font-size:10px;
+  line-height:16px;
+  font-weight:bold;
+  padding-top:2px;
+  padding-left:6px;
+  padding-right:6px;
+  padding-bottom:2px
+}
+
+a.sitemenulink:link    {color:#ffd700;text-decoration:none}
+a.sitemenulink:visited {color:#ffd700;text-decoration:none}
+a.sitemenulink:active  {color:#ffd700;text-decoration:none}
+a.sitemenulink:hover   {color:#000000;display:block;background-color:#ffd700}
+
+/*****************************************************************************************
+ Messages
+ *****************************************************************************************/
+.listspacer {line-height:18px}
+
+/*****************************************************************************************
+ News
+ *****************************************************************************************/
+table.news {border:1px solid #cddeed}
+table.news td {padding:2px;line-height:16px;border:1px solid #cddeed}
+
+.newsc1 {width:15%}
+.newsc2 {width:35%}
+.newsc3 {width:15%}
+.newsc4 {width:35%}
+
+/*****************************************************************************************
+ Noticeboard
+ *****************************************************************************************/
+table.noticeboard td
+{
+  line-height:18px;
+  padding-top:4px;
+  padding-bottom:2px;
+  border-bottom:1px solid #cddeed
+}
+
+/*****************************************************************************************
+ Officials
+ *****************************************************************************************/
+table.officials {border:1px solid #cddeed}
+table.officials td {padding:2px;line-height:16px;border:1px solid #cddeed}
+
+.officialsc1 {width:8%}
+.officialsc2 {width:12%}
+.officialsc3 {width:20%}
+.officialsc4 {width:12%}
+.officialsc5 {width:13%}
+.officialsc6 {width:35%}
+
+/*****************************************************************************************
+ Pic of the Week
+ *****************************************************************************************/
+.potwspacerX {width:1%}
+.potwspacerY {height:10px}
+
+.potwbox
+{
+  width:33%;
+  padding:8px;
+  vertical-align:top;
+  text-align:justify
+}
+
+/*****************************************************************************************
+ Quips and Quotes
+ *****************************************************************************************/
+table.quipsandquotes {border:1px solid #cddeed}
+table.quipsandquotes td {padding:8px;background-color:#ffffcc}
+
+.quipsandquotesbox
+{
+  width:33%;
+  padding:8px;
+  vertical-align:top;
+  text-align:justify
+}
+
+.quipsandquotesspacerX {width:1%}
+.quipsandquotesspacerY {height:10px}
+
+/*****************************************************************************************
+ Reports
+ *****************************************************************************************/
+table.reports {border:1px solid #cddeed}
+table.reports td {line-height:20px;border:1px solid #cddeed}
+
+.reporttext {line-height:16px;text-align:justify}
+
+/*****************************************************************************************
+ Results
+ *****************************************************************************************/
+table.results        {border:1px solid #cddeed}
+table.results     td {padding:2px;line-height:16px;border:1px solid #cddeed}
+table.resultslist td {line-height:18px}
+
+.teamlistwidth2008 {width:10%}
+.teamlistwidth2009 {width:8%}
+.teamlistwidth2010 {width:7%}
+.teamlistwidth2011 {width:8%}
+
+.resultsframe {width:955px;height:700px}
+
+.resstat {width:10%}
+
+.resc1 {width:6%}
+.resc2 {width:8%}
+.resc3 {width:10%}
+.resc4 {width:24%}
+.resc5 {width:8%}
+.resc6 {width:8%}
+.resc7 {width:8%}
+.resc8 {width:8%}
+
+.resultsc1 {width:6%}
+.resultsc2 {width:10%}
+.resultsc3 {width:8%}
+.resultsc4 {width:22%}
+.resultsc5 {width:22%}
+.resultsc6 {width:8%}
+.resultsc7 {width:8%}
+.resultsc8 {width:8%}
+.resultsc9 {width:8%}
+
+.bye     {color:#777777;font-size:10px}
+.win     {color:#007777;font-size:10px;font-weight:bold}
+.lose    {color:#cc0000;font-size:10px;font-weight:bold}
+.draw    {color:#648cc8;font-size:10px;font-weight:bold}
+.forfeit {color:#777777;font-size:10px;font-weight:bold}
+
+/*****************************************************************************************
+ Site Map
+ *****************************************************************************************/
+.sitemapwidth   {width:24%}
+.sitemapspacerX {width:1%}
+
+/*****************************************************************************************
+ Sponsors
+ *****************************************************************************************/
+.sponsorspacerX {width:2%}
+.sponsorspacerY {height:20px}
+
+.sponsorbox
+{
+  width:48%;
+  padding:8px;
+  vertical-align:top;
+  text-align:justify;
+  border:1px solid #003399;
+  background-color:#f0f2fe
+}
+
+/*****************************************************************************************
+ Submenu
+ *****************************************************************************************/
+.submenu
+{
+  height:18px;
+  color:#000000;
+  font-size:10px;
+  font-weight:bold;
+  line-height:18px;
+  padding-left:6px;
+  padding-right:6px
+}
+
+.submenuclear
+{
+  color:#777777;
+  font-size:10px;
+  font-weight:bold;
+  padding-left:6px;
+  padding-right:6px
+}
+
+a.submenulink:link    {color:#000000;text-decoration:none}
+a.submenulink:visited {color:#000000;text-decoration:none}
+a.submenulink:active  {color:#000000;text-decoration:none}
+a.submenulink:hover   {color:#ffffff;display:block;background-color:#003399}
+
+/*****************************************************************************************
+ Tables
+ *****************************************************************************************/
+table {border-collapse:collapse}
+
+.tablesubheader
+{
+  color:#000000;
+  font-size:9px;
+  font-weight:bold;
+  background-color:#cddeed
+}
+
+a.tablelink:link    {color:#003399;text-decoration:none}
+a.tablelink:visited {color:#003399;text-decoration:none}
+a.tablelink:active  {color:#003399;text-decoration:none}
+a.tablelink:hover   {color:#ffffff;background-color:#003399}
+
+/*****************************************************************************************
+ Title
+ *****************************************************************************************/
+.titlearea
+{
+  height:20px;
+  line-height:20px;
+  background-color:#ffd700;
+  border-bottom:1px solid #003399
+}
+
+.title
+{
+  height:18px;
+  color:#000000;
+  font-size:10px;
+  font-weight:bold;
+  line-height:18px;
+  padding-left:6px;
+  padding-right:6px
+}
+
+.titleclear
+{
+  color:#000000;
+  font-size:10px;
+  font-weight:bold;
+  padding-left:6px;
+  padding-right:6px
+}
+
+a.titlelink:link    {color:#000000;text-decoration:none}
+a.titlelink:visited {color:#000000;text-decoration:none}
+a.titlelink:active  {color:#000000;text-decoration:none}
+a.titlelink:hover   {color:#ffffff;display:block;background-color:#003399}
+
+/*****************************************************************************************
+ Training
+ *****************************************************************************************/
+table.training td {border:1px solid #cddeed}
+
+.trainingc1 {width:10%}
+.trainingc2 {width:18%}
+.trainingc3 {width:18%}
+.trainingc4 {width:18%}
+.trainingc5 {width:18%}
+.trainingc6 {width:18%}
+
+/*****************************************************************************************
+ Videos
+ *****************************************************************************************/
+table.videos {border:1px solid #cddeed}
+table.videos td {padding:2px;line-height:16px;border:1px solid #cddeed}
+
+.videowidthmedium {width:500px}
+.videowidthhigh   {width:800px}
+
+.videoc1 {width:15%}
+.videoc2 {width:15%}
+.videoc3 {width:25%}
+.videoc4 {width:15%}
+.videoc5 {width:10%}
+.videoc6 {width:10%}
+.videoc7 {width:10%}
+
+/*****************************************************************************************
+ Weather
+ *****************************************************************************************/
+.weatherwidth {width:30%}
+
+/*****************************************************************************************
+ Wildcats
+ *****************************************************************************************/
+.wildcats {color:#ff00ff;font-weight:bold;font-style:italic}
+
+/*****************************************************************************************
+ Notes
+ =====
+ Blue light to dark: f0f2fe -> cddeed -> 78a0c8 -> 648cc8 -> 3070ba -> 255282
+ *****************************************************************************************/

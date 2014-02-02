@@ -1,0 +1,191 @@
+<html>
+<head>
+  <title>North Ryde Soccer - Match Reports - 14 April 2012</title>
+  <meta http-equiv="content-type" content="text/html;charset=ISO-8859-1" />
+  <meta name="keywords" content="north ryde soccer club" />
+  <meta name="description" content="North Ryde Soccer Club" />
+  <script type="text/javascript" src="javascript/nrs_scripts.js"></script>
+  <link type="text/css" rel="stylesheet" href="stylesheets/nrs_styles.css" />
+  <link type="image/x-icon" rel="icon" href="images/objects/favicon.ico" />
+  <link type="image/x-icon" rel="shortcut icon" href="images/objects/favicon.ico" />
+</head>
+<body onload="loadReports();">
+<script type="text/javascript">function Go() {return;}</script>
+<script type="text/javascript" src="javascript/menu_variables.js"></script>
+<script type="text/javascript" src="javascript/menu.js"></script>
+<noscript>Your browser does not support JavaScript</noscript>
+<table class="pagearea" cellspacing="0" cellpadding="0">
+<!-- Top section -->
+<tr class="bgblue">
+  <td>
+    <table class="fullwidth" cellspacing="0" cellpadding="0">
+    <!-- Logo and emblem -->
+    <tr>
+      <td>
+        <a href="index.php">
+        <img class="noborder" src="images/objects/nrs_logo.gif" alt="Click for Front Page"></a>
+      </td>
+      <td rowspan="3">
+        <table align="right" cellspacing="0" cellpadding="0">
+        <tr>
+          <td><img class="noborder" src="images/objects/nrs_emblem.jpg"></td>
+        </tr>
+        </table>
+      </td>
+    </tr>
+     <!-- Site menu -->
+    <?php readfile("topmenu.inc"); ?> 
+    <!-- Spacer -->
+    <tr><td class="spacermediumY"></td></tr>
+    </table>
+  </td>
+</tr>
+<!-- Menu and main content -->
+<tr>
+  <td>
+    <table cellspacing="0" cellpadding="0">
+    <tr>
+      <!-- Menu -->
+      <td class="menuarea"></td>
+      <!-- Main content -->
+      <td class="contentarea top">
+        <table class="fullwidth" cellspacing="0" cellpadding="0">
+        <!-- Page title and submenu -->
+        <tr>
+          <td class="titlearea">
+            <table class="fullwidth" cellspacing="0" cellpadding="0">
+            <tr>
+              <!-- Page title -->
+              <td>
+                <table cellspacing="0" cellpadding="0">
+                <tr>
+                  <td class="title"><a class="titlelink" href="reports.php">&nbsp;MATCH REPORTS&nbsp;</a></td>
+                  <td>></td>
+                  <td class="titleclear">&nbsp;14 APRIL 2012&nbsp;</td>
+                </tr>
+                </table>
+              </td>
+            </tr>
+            </table>
+          </td>
+        </tr>
+        <!-- Spacer -->
+        <tr><td class="spacermediumY"></td></tr>
+        <tr><td class="spacermediumY"></td></tr>
+        <!-- Page content -->
+        <tr>
+          <td>
+            <table align="center" class="contentwidth" cellspacing="0" cellpadding="0">
+            <tr>
+              <td>
+                <table class="fullwidth" cellspacing="0" cellpadding="0">
+                <tr>
+                  <td class="forte">Match Report - 14 April 2012</td>
+                  <td>
+                    <table class="right" cellspacing="0" cellpadding="0">
+                    <tr>
+                      <form>
+                      <td>
+					  &nbsp;
+                        <!--select size="1" name="reportList" onchange="openReportList();"></select-->
+                      </td>
+                      </form>
+                    </tr>
+                    </table>
+                  </td>
+                </tr>
+                </table>
+              </td>
+            </tr>
+            <tr><td class="spacersmallY"></td></tr>
+            <tr>
+              <td>
+                <table cellspacing="0" cellpadding="0">
+                <tr>
+                  <td class="small">On this page:</td>
+                  <td class="spacersmallX"></td>
+                  <td class="pagemenu"><a class="pagemenulink" href="#u9div4">&nbsp;U9&nbsp;</a></td>
+				  <td class="pagemenu"><a class="pagemenulink" href="#u10div8">&nbsp;U10&nbsp;</a></td>
+                </tr>
+                </table>
+              </td>
+            </tr>
+            <tr><td class="spacersmallY"></td></tr>
+ 
+          
+            <tr><td><hr/></td></tr>
+            <tr>
+              <td class="forte">
+                <a name="u9div4">U9 Division 4</a>
+                <span class="green">&nbsp;&nbsp;5 - 0</span>
+              </td>
+            </tr>
+            <tr><td class="spacermediumY"></td></tr>
+            <tr>
+              <td class="reporttext">
+                Our team started a bit slow early Saturday morning at Dural and the passes were a bit weak, but a very good individual effort from Haruki gave us the lead and got the boys fired up. A few minutes later, Kyle was in the right position at the right time and capitalised on the mistake of the goalie giving us our 2nd goal. Our third goal came from Caleb who managed to put a good shot away through many defenders.
+</BR></BR>
+In the second half, we made a few tactical changes, enjoying a 3 goal lead. We had a changeover of the goal keeper, the defence and the attacking line up. The changes resulted 2 more goals, Luka scored a  'screamer' , and just before the full time whistle, Abhinu's left foot secured a well deserved win 5 : 0 to us.
+</br></br>
+Both our goalies Abhinu and Lachlan did really well with a clean sheet. They had to make good saves without conceding. It was clear the boys were starting to try and play their positions and think tactically which made them the superior team on the day. Well done, boys!
+                <br/><br/>
+                - Lisa Shaw
+              </td>
+            </tr>
+            <tr><td class="spacerlargeY"></td></tr>
+			
+			<tr><td><hr/></td></tr>
+            <tr>
+              <td class="forte">
+                <a name="u10div8">U10 Division 8</a>
+                <span class="green">&nbsp;&nbsp;4 - 1</span>
+              </td>
+            </tr>
+            <tr><td class="spacermediumY"></td></tr>
+            <tr>
+              <td class="reporttext">
+                We started with a massive downhill disadvantage that saw our competitors score
+within the first minute of the game. It certainly looked like a long tough day was
+on the cards.
+<br><br>
+To the credit of the team, they quickly shrugged off the goal and went about the
+business of defending against further attacking raids. Towards the end of the first
+half we started to find out feet and had numerous chances ourselves to score.
+Running uphill and without any substitutes to utilize the boys ran themselves ragged
+to go into half time down only 1 goal.
+<br><br>
+The second half was a different story with us now having the downhill advantage that
+enable us to now dominate our opposition. We finished with 4 well converted goals to
+give us a 4-1 victory.
+<br><br>
+The Coach was very impressed with the defensive effort in tough conditions and the
+teamwork involved. Everybody played well leaving it impossible to single out
+individual performances. Adam Ayoub was the Player of the Week. Well done Adam and
+well done Team!
+                <br/><br/>
+                - Wayne Fowler
+              </td>
+            </tr>
+            <tr><td class="spacerlargeY"></td></tr>
+            
+            </table>
+          </td>
+        </tr>
+        <!-- Spacer -->
+        <tr><td class="spacerlargeY"></td></tr>
+        <tr><td class="spacerlargeY"></td></tr>
+        <!-- Copyright -->
+        <?php readfile("copyright.inc"); ?>
+        <!-- Spacer -->
+        <tr><td class="spacersmallY"></td></tr>
+        </table>
+      </td>
+    </tr>
+    </table>
+  </td>
+</tr>
+</table>
+<!-- Spacer -->
+<br/><br/>
+</body>
+</html>

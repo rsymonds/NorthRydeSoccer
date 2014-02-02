@@ -1,0 +1,417 @@
+<html>
+<head>
+  <title>North Ryde Soccer - Match Reports - 5 May 2012</title>
+  <meta http-equiv="content-type" content="text/html;charset=ISO-8859-1" />
+  <meta name="keywords" content="north ryde soccer club" />
+  <meta name="description" content="North Ryde Soccer Club" />
+  <script type="text/javascript" src="javascript/nrs_scripts.js"></script>
+  <link type="text/css" rel="stylesheet" href="stylesheets/nrs_styles.css" />
+  <link type="image/x-icon" rel="icon" href="images/objects/favicon.ico" />
+  <link type="image/x-icon" rel="shortcut icon" href="images/objects/favicon.ico" />
+</head>
+<body onload="loadReports();">
+<script type="text/javascript">function Go() {return;}</script>
+<script type="text/javascript" src="javascript/menu_variables.js"></script>
+<script type="text/javascript" src="javascript/menu.js"></script>
+<noscript>Your browser does not support JavaScript</noscript>
+<table class="pagearea" cellspacing="0" cellpadding="0">
+<!-- Top section -->
+<tr class="bgblue">
+  <td>
+    <table class="fullwidth" cellspacing="0" cellpadding="0">
+    <!-- Logo and emblem -->
+    <tr>
+      <td>
+        <a href="index.php">
+        <img class="noborder" src="images/objects/nrs_logo.gif" alt="Click for Front Page"></a>
+      </td>
+      <td rowspan="3">
+        <table align="right" cellspacing="0" cellpadding="0">
+        <tr>
+          <td><img class="noborder" src="images/objects/nrs_emblem.jpg"></td>
+        </tr>
+        </table>
+      </td>
+    </tr>
+     <!-- Site menu -->
+    <?php readfile("topmenu.inc"); ?> 
+    <!-- Spacer -->
+    <tr><td class="spacermediumY"></td></tr>
+    </table>
+  </td>
+</tr>
+<!-- Menu and main content -->
+<tr>
+  <td>
+    <table cellspacing="0" cellpadding="0">
+    <tr>
+      <!-- Menu -->
+      <td class="menuarea"></td>
+      <!-- Main content -->
+      <td class="contentarea top">
+        <table class="fullwidth" cellspacing="0" cellpadding="0">
+        <!-- Page title and submenu -->
+        <tr>
+          <td class="titlearea">
+            <table class="fullwidth" cellspacing="0" cellpadding="0">
+            <tr>
+              <!-- Page title -->
+              <td>
+                <table cellspacing="0" cellpadding="0">
+                <tr>
+                  <td class="title"><a class="titlelink" href="reports.php">&nbsp;MATCH REPORTS&nbsp;</a></td>
+                  <td>></td>
+                  <td class="titleclear">&nbsp;5 May 2012&nbsp;</td>
+                </tr>
+                </table>
+              </td>
+            </tr>
+            </table>
+          </td>
+        </tr>
+        <!-- Spacer -->
+        <tr><td class="spacermediumY"></td></tr>
+        <tr><td class="spacermediumY"></td></tr>
+        <!-- Page content -->
+        <tr>
+          <td>
+            <table align="center" class="contentwidth" cellspacing="0" cellpadding="0">
+            <tr>
+              <td>
+                <table class="fullwidth" cellspacing="0" cellpadding="0">
+                <tr>
+                  <td class="forte">Match Report - 5 May 2012</td>
+                  <td>
+                    <table class="right" cellspacing="0" cellpadding="0">
+                    <tr>
+                      <form>
+                      <td>
+					  &nbsp;
+                        <!--select size="1" name="reportList" onchange="openReportList();"></select-->
+                      </td>
+                      </form>
+                    </tr>
+                    </table>
+                  </td>
+                </tr>
+                </table>
+              </td>
+            </tr>
+            <tr><td class="spacersmallY"></td></tr>
+            <tr>
+              <td>
+                <table cellspacing="0" cellpadding="0">
+                <tr>
+                  <td class="small">On this page:</td>
+                  <td class="spacersmallX"></td>
+				  <td class="pagemenu"><a class="pagemenulink" href="#u6divGreenA">&nbsp;U6&nbsp;</a></td>
+                                  <td class="pagemenu"><a class="pagemenulink" href="#u7divGreenA">&nbsp;U7&nbsp;</a></td>
+								  <td class="pagemenu"><a class="pagemenulink" href="#u8divGreen">&nbsp;U8&nbsp;</a></td>
+                                  <td class="pagemenu"><a class="pagemenulink" href="#u9div4">&nbsp;U9&nbsp;</a></td>
+								  <td class="pagemenu"><a class="pagemenulink" href="#u11div6">&nbsp;U11&nbsp;</a></td>
+                </tr>
+                </table>
+              </td>
+            </tr>
+            <tr><td class="spacersmallY"></td></tr>
+			<tr><td><hr/></td></tr>
+            <tr>
+              <td class="forte">
+                <a name="u6divGreenA">U6 Green A</a>
+                <span class="green">&nbsp;&nbsp;</span>
+              </td>
+            </tr>
+            <tr><td class="spacermediumY"></td></tr>
+            <tr>
+              <td class="reporttext">
+                A lovely morning at Magdala Oval and a wonderful effort by North Ryde and
+All Saints hunters hill teams.
+<br><br>
+North Ryde had a magnificent start with Naael scoring the first goal,
+closely followed a second which was scored for us by the All saints hills.
+Excellent teamwork by Paddy and Maggie, with Conner leading the defense
+throughout the first half which ended with All Saints leading 4-2.
+<br><br>
+The second half started with Conner and Lachlan C on the attack with Harry
+and Lachlan H showing some great footwork which led to the 3rd goal by
+Lachlan C. The team showed great team spirit which could be seen with the
+cheering on the sidelines by the benchwarmers and the game ended with All
+Saints winning the match 8-3.
+<br><br>
+Congratulations to Conner who was awarded the Player of the Match Trophy.
+
+<br/><br/>
+- Denise Daber
+                <img class="noborder imgleft" src="images/photos/u6/20120505_u6_greena_1.jpg">
+              </td>
+            </tr>
+            <tr><td class="spacerlargeY"></td></tr>
+
+		   <tr><td><hr/></td></tr>
+            <tr>
+              <td class="forte">
+                <a name="u6divWhiteA">U6 White A</a>
+                <span class="green">&nbsp;&nbsp;</span>
+              </td>
+            </tr>
+            <tr><td class="spacermediumY"></td></tr>
+            <tr>
+              <td class="reporttext">
+                Another beautiful day at HQ - the opposition, Northern HFC, were lined up like 10
+little orange soldiers. There was a sense of purpose about them as well as a coterie
+of support staff. This was going to be tricky - They looked like the Dutch soccer
+team in miniature. And so it proved when the game started. 
+
+<br><br>
+The HFC boys hunted like
+a pack, scoring a quick, workman-like goal, exploiting our free-ranging style. Fast
+learners though, our boys and girls. Loki and Rafael soon shored up the defences,
+frustrating numerous HFC attempts on goal. Ben and Isabel bustled around in the
+middle, outnumbered by the HFC pack, taking a few knocks though persisting
+nonetheless.
+<br><br>
+ It was still 1-0 at half time. Fuelled up on mandarin and watermelon,
+we pulled off something special in the 2nd half. Loki slotted a cheeky pass along
+HFC's goal-line, perilously close to going out. Isabel helped it on its way into an
+open goal mouth. Ben was there and he knew exactly what to do slotting a neat shot
+into the open net. Woo hoo ! 1-1! That was how it stayed. Tense game. 
+<br><br>
+Great
+performance by our whole team against a very committed opposition. Isabel received
+the match award for her energetic midfield hustle and bustle...and her pink cheeks. 
+
+                <br/><br/>
+                - Richard Greenwood
+
+              </td>
+            </tr>
+            <tr><td class="spacerlargeY"></td></tr>
+
+		  <tr><td><hr/></td></tr>
+            <tr>
+              <td class="forte">
+                <a name="u7divWhiteA">U7 White A</a>
+                <span class="green">&nbsp;&nbsp;</span>
+              </td>
+            </tr>
+            <tr><td class="spacermediumY"></td></tr>
+            <tr>
+              <td class="reporttext">
+               The Funnel Webs (North Ryde U7's) game this week was against Putney Rangers
+B @ Westminster Oval.
+Another great effort in a closely fought match !
+<br><br>
+Congratulations to Alex for scoring a cracking goal in the first half to
+equalise the score 1 - 1. A late goal in the first half gave the Rangers the
+lead 2 - 1. 
+Although both teams had chances in the second half, great defence saw the
+score remain unchanged.
+<br><br>
+Well done to all the players for a great effort and to Claire for player of
+the match. 
+Better luck next week. 
+
+
+                <br/><br/>
+                - Angela Fitzpatrick
+<img class="noborder imgleft" src="images/photos/u7/20120505_u7_whitea.jpg">
+              </td>
+            </tr>
+            <tr><td class="spacerlargeY"></td></tr>
+			
+			<tr><td><hr/></td></tr>
+            <tr>
+              <td class="forte">
+                <a name="u7divWhiteA">U7 Yellow A</a>
+                <span class="green">&nbsp;&nbsp;</span>
+              </td>
+            </tr>
+            <tr><td class="spacermediumY"></td></tr>
+            <tr>
+              <td class="reporttext">
+               Well the action commenced early with the challenge of getting a car spot at
+Pidding park, always a little warm up to make it down to the grounds. After
+a pre-game kick around practicing trapping, passing and calling to each
+other the U7 A's were ready to play their fellow mates U7 Yellow B on Field
+2. 
+<br><br>
+The game was well matched from the whistle with some strong tackling and
+long kicks by both teams. Thankfully the U7 B's were thinking ahead and
+brought white t-shirts to wear - Thanks guys!. 
+<br><br>
+Excellent use of skills in
+dribbling with the ball and passing was evident in the Yellow A's who were
+working together like clockwork. Michael had his usual
+pre-game raisin toast for breakfast which showed to be successful with his
+6 magnificent goals and several field length runs. Christian, Will and
+Jasmine also scored. Blake, Elijah and Christian and Will made some great
+saves in defense. Good kick ins from Blake into free space. Jasmine and
+Scarlet and Elijah were very good in the attack and Scarlet held her ground
+trapping some strong defending kicks from the Yellow B's.
+<br><br>
+The player of the match for improvement in all areas of the game was
+Scarlet - Well done Scarlet!
+
+
+                <br/><br/>
+                - Sarah Robson
+              </td>
+            </tr>
+            <tr><td class="spacerlargeY"></td></tr>
+			
+			<tr><td><hr/></td></tr>
+            <tr>
+              <td class="forte">
+                <a name="u7divWhiteA">U7 Yellow B</a>
+                <span class="green">&nbsp;&nbsp;</span>
+              </td>
+            </tr>
+            <tr><td class="spacermediumY"></td></tr>
+            <tr>
+              <td class="reporttext">
+               It was mate playing against mate at Pidding Park this week when the boys
+took on North Ryde Yellow A. 
+<br><br>
+In what was a really hard fought game by the boys, Yellow A just kept the
+goals rolling in. 
+<br><br>
+There were some great opportunities at goal by Ben, Josh and Oli. Japser and
+Zac were great in attack as was Jake and Hayden in defense. 
+<br><br>
+It looks like Tuesday's training is producing results on the field with some
+good passing, tackling and marking. Thanks Amanda.
+<br><br>
+Unfortunately it wasn't their week though, however the boys really enjoyed
+themselves and put in an outstanding effort against a strong and relentless
+opposition.
+<br><br>
+Player of the week went to Jake. Congratulations Jake!
+                <br/><br/>
+                - Vera Dimovski
+              </td>
+            </tr>
+            <tr><td class="spacerlargeY"></td></tr>
+
+<tr><td><hr/></td></tr>
+            <tr>
+              <td class="forte">
+                <a name="u8divGreen">U8 Green</a>
+                <span class="green">&nbsp;&nbsp;</span>
+              </td>
+            </tr>
+            <tr><td class="spacermediumY"></td></tr>
+            <tr>
+              <td class="reporttext">
+               What a game! What a win!
+Congratulations to North Ryde Under 8 Green for their first win this year. A wonderful game with a huge effort by everyone.
+In the first half, even though Epping YMCA scored the first goal, North Ryde kept on going knowing that if they translate what they learned in training, the first goal will eventually come.
+Charlie grabbed the ball a few times and ran all the way to the goal. YMCA unsuccessfully tried stopping him. In between Luke’s great kick almost went in and North Ryde’s first goal was just a matter of time.
+Then, Liam managed to kick the ball to the goal and all Epping YMCA could do was just to look at North Ryde celebrating their first goal this season.
+<br><br>
+Idan managed twice to almost score the second one and just before the first half’s whistle missed the goal by just a few centimetres.
+Good first half also for our goalie, Yeong, with a few of great saves.
+<br><br>
+In the second half, there was a heroic game by everyone. Hugo, Jonathan, Josh, Crystal and Rhys with a great defence didn’t let Epping even get near our goal.
+As the game continued, North Ryde realised it’s their chance to score the second one. Liam Tune, who was absolutely everywhere in the field, kicked the ball which went straight in.
+In the last few minutes, North Ryde continued to play well and managed to celebrate their first win this season. 
+<br><br>
+The player of the week was awarded to Liam. Well done guys!!!
+<br/><br/>
+                - Asher Alhassid
+              </td>
+            </tr>
+            <tr><td class="spacerlargeY"></td></tr>
+		  
+            <tr><td><hr/></td></tr>
+            <tr>
+              <td class="forte">
+                <a name="u9div4">U9 Division 4</a>
+                <span class="green">&nbsp;&nbsp;5 - 0</span>
+              </td>
+            </tr>
+            <tr><td class="spacermediumY"></td></tr>
+            <tr>
+              <td class="reporttext">
+                At this week's training session, going into round 4, we re-capped on our season so far and Tibor and the boys had one on one talks with each other to get more of a feel for the positions they like to play and how to develop this. We also changed our formation and our tactics. 
+On Saturday's match day we put this into play.  We had a more relaxed game close to home against Roselea and even their coach remarked how enjoyable our team was to play despite their 5-0 loss. 
+<br><br>
+The game started well, we were attacking the opposition who defended well.  Their goalie played especially well but we just could not get passed her to score. Finally Connor's shot found its way into the net. Soon after Luka made it 2:0. Before the half time whistle Kyle's goal gave us 3:0. 
+In the second half we continued where we left off, playing our passing game more in the opposition's half. Only once or twice we played in our half when our goalie picked up a back pass, but the referee did not blow his whistle. It was very close to the edge of our penalty area, it might not have been very dangerous, but we got away with it..lucky.  Two more goals from Kyle, one off his left foot, made the final score to 5:0, well done it was a hat-trick for him. 
+<br><br>
+Our goalies for the day Brooklyn and Matthew also were put to work and did a good job achieving a clean sheet.
+A special welcome back to Abhinu who returned after 2 weeks off following doctor's orders. We still have not conceded a goal but deep inside we know it might happen'talk amongst the teams is that Redfield Lions who we meet in Round 7 will give us a challenge.  Roselea kindly gave us some hints for that one!
+<br><br>
+We are having a thoroughly enjoyable season so far with a very good team spirit developing on and off-field amongst the boys and the parents. It was noticeable in this game how well they are now passing. It is a pleasure to watch each Saturday, well done to all of you.
+
+                <br/><br/>
+                - Tibor Balogh<br>
+                - Lisa Shaw
+              </td>
+            </tr>
+            <tr><td class="spacerlargeY"></td></tr>       
+
+<tr><td><hr/></td></tr>
+            <tr>
+              <td class="forte">
+                <a name="u11div6">U11 Division 6</a>
+                <span class="green">&nbsp;&nbsp;3 - 2</span>
+              </td>
+            </tr>
+            <tr><td class="spacermediumY"></td></tr>
+            <tr>
+              <td class="reporttext">
+                The U11/6 played Holy Cross College at Magdala oval. This was the first match of the season, where
+we had a full 11 players to take the field. The U9/3 team also kindly helped with 4 players to take the
+bench, they really made a huge difference with their high level of skill. So a special thank you must go to
+Bowen, Elliot, Jacob, Patrick, their parents and the coaching team from the U9/3.
+<br><br>
+This made a huge difference to the team as compared to previous games. They ran out with full
+confidence and determination to secure the first win of the season. Holy Cross was the first to score,
+with an early goal. After this goal, the balance of the game was very even, with play moving from end
+to end. An equalizer was scored by North Ryde with some great combination attacking play from the U9
+boys, and the U11 attack.
+<br><br>
+In the second half, Jacob from the U9/3 played as our goalie and it was great to have a specialist goalie
+for the first time of the season. Jacob made some excellent stops, and his clearance kicks were great
+which enabled us to move straight from defense to attack in the oppositions half.
+<br><br>
+North Ryde came out the strongest and after five minutes we were in front after a nice shot by Kan
+was blocked by the goalie and a North Ryde attacker slotted in the rebound. We threatened a number
+of times after this, but Holy Cross was able to score an equalizer after we were unable to clear the
+ball from the goal mouth. With less than five minutes to go, Elliot from the U9's provided a piece of
+brilliance by beating 4 defenders and then cutting back the ball for a North Ryde attacker to score the
+winning goal.
+<br><br>
+Each team member played a great game, but there are three U11 stand outs to mention, Jack Crane
+and Nathaniel Lowe in midfield were great, Jack's runs were impressive and Nathaniel's control and
+composure were greatly improved over his 2011 performances. Kan Izumi played the whole game in
+attack, and did not stop running. He combined well with the other forwards and was very unlucky not to
+score himself.
+                <br/><br/>
+                - Adam Barnier
+              </td>
+            </tr>
+            <tr><td class="spacerlargeY"></td></tr>       
+			
+			
+            </table>
+          </td>
+        </tr>
+        <!-- Spacer -->
+        <tr><td class="spacerlargeY"></td></tr>
+        <tr><td class="spacerlargeY"></td></tr>
+        <!-- Copyright -->
+        <?php readfile("copyright.inc"); ?>
+        <!-- Spacer -->
+        <tr><td class="spacersmallY"></td></tr>
+        </table>
+      </td>
+    </tr>
+    </table>
+  </td>
+</tr>
+</table>
+<!-- Spacer -->
+<br/><br/>
+</body>
+</html>

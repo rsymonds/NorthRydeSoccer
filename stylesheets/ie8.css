@@ -1,0 +1,69 @@
+/*
+File:  'Blueball Smooth' ie8.css Style Sheet
+Created: 23, August, 2012
+Last Modified: 28, August, 20102
+Version: 7.0
+Author:  Charlie Lockhart, Blueball Design
+www.sandvoxdesigns.blueballdesign.com
+Copyright 2008-2012 Blueball Design LLC USA/Charlie Lockhart, All Rights Reserved
+*/
+
+
+#title h1 {
+	position: absolute;
+	top: 20px;
+	left: 20px;
+	right: 20px;
+}
+
+.has-logo #title h1 {
+	position: absolute;
+	top: 20px;
+	left: 256px;
+	right: 20px;
+}
+
+*:first-child+html #title h1 {
+	position: absolute;
+	top: 40px;
+	left: 20px;
+	right: 20px;
+}
+
+*:first-child+html .has-logo #title h1 {
+	position: absolute;
+	top: 40px;
+	left: 256px;
+	right: 20px;
+}
+
+#title p {
+	position: absolute;
+	top: 86px;
+	left: 20px;
+	right: 20px;
+}
+
+.has-logo #title p {
+	position: absolute;
+	top: 86px;
+	left: 256px;
+	right: 20px;
+}
+
+#sitemenu-content .currentParent > a {
+	background: transparent;
+}
+
+*:first-child+html #sitemenu-content .currentParent > a {
+	background: #ffffff;
+}
+
+.pagelet-body .general-index {
+	padding-top: 2px;
+}
+
+*:first-child+html .pagelet-body .general-index {
+	padding-top: 0;
+}
+

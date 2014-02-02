@@ -1,0 +1,9 @@
+# Inserted By Customer Control Panel
+SetENV PHPRC /home/northryd/public_html
+
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^northrydesoccer\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.northrydesoccer\.com$
+RewriteRule ^/?$ "http\:\/\/www\.northrydesoccer\.com\.au" [R=301,L]
+DirectoryIndex index.php index.html index.htm
+suPHP_ConfigPath /home/northryd/public_html/
