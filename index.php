@@ -31,7 +31,7 @@ include "sitemenu.inc";?>
 	                        Soccer Kickstart is fun for the kids whilst also teaching some basic skills, click on the image below for more details. 
 				<a href="http://www.soccerkickstart.com.au/" target="_blank">
 	                            <img alt="Click for the Soccer Kickstart website"
-	                            src="/images/sponsors/Soccer_Kickstart.jpg"></a>
+	                            src="images/sponsors/Soccer_Kickstart.jpg"></a>
 	
 			</div>
 	</div>
@@ -39,7 +39,7 @@ include "sitemenu.inc";?>
 </div>
 
 		</div> <!-- sidebar-content -->
-		<div id="sidebar-bottom"><a href="https://www.facebook.com/NorthRydeStrikersSoccer"><img src="/images/objects/like_us_facebook.jpg"></a></div>	
+		<div id="sidebar-bottom"><a href="https://www.facebook.com/NorthRydeStrikersSoccer"><img src="images/objects/like_us_facebook.jpg"></a></div>	
 	</div> <!-- sidebar -->
 </div> <!-- sidebar-container -->
 					<div id="main">
