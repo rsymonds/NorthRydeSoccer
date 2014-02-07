@@ -16,7 +16,7 @@ include "sitemenu.inc";?>
 	<div class="RichTextElement">
 		<div><p><br />
 	
-				<img class="narrow graphic-container" src="../images/club/history_team_1.jpg">
+				<img class="narrow graphic-container" src="images/club/history_team_1.jpg">
 			
 		
                     North Ryde Soccer Football Club was officially formed in December 1953
