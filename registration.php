@@ -205,6 +205,7 @@ include "sitemenu.inc";?>
                                         <li>You play in the age division for the age you are turning in your 2014 Birthday. So if you turn 8 you are U8. Over 35s must be 35 before they can play.</li>
                                     </ul>
 
+                                  
 </div> <!-- /article-content -->
 								<div class="article-info">
 								</div> <!-- /article-info -->
