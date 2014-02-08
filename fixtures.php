@@ -18,40 +18,40 @@ include "sitemenu.inc";?>
 										<table cellspacing="0" cellpadding="0" class>
    
 								                    <tr>
-								                      <td style="border:0;"><a href="/u6greena.php">Under 6 Green A</a>
+								                      <td style="border:0;"><a href="u6greena.php">Under 6 Green A</a>
 								                      </td>
 								                      
-								                      <td style="border:0;"><a href="/u6greenb.php">Under 6 Green B</a>
+								                      <td style="border:0;"><a href="u6greenb.php">Under 6 Green B</a>
 								                      </td>
 								                      
-								                      <td style="border:0;"><a href="/u6purple.php">Under 6 Purple</a>
+								                      <td style="border:0;"><a href="u6purple.php">Under 6 Purple</a>
 								                      </td>
 								                      
-								                      <td style="border:0;"><a href="/u6red.php">Under 6 Red</a>
+								                      <td style="border:0;"><a href="u6red.php">Under 6 Red</a>
 								                      </td>
 								                  
-								                      <td style="border:0;"><a href="/u6white.php">Under 6 White</a>
+								                      <td style="border:0;"><a href="u6white.php">Under 6 White</a>
 								                      </td>
 								                      
-								                      <td style="border:0;"><a href="/u6yellow.php">Under 6 Yellow</a>
+								                      <td style="border:0;"><a href="u6yellow.php">Under 6 Yellow</a>
 								                      </td>
 								                      </tr>
 								                    
    
 								                    <tr>
-								                    	<td style="border:0;"><a href="/u7green.php">Under 7 Green</a>
+								                    	<td style="border:0;"><a href="u7green.php">Under 7 Green</a>
 								                      </td>
 								                    
-								                      <td style="border:0;"><a href="/u7purple.php">Under 7 Purple</a>
+								                      <td style="border:0;"><a href="u7purple.php">Under 7 Purple</a>
 								                      </td>
 								                      
-								                      <td style="border:0;"><a href="/u7red.php">Under 7 Red</a>
+								                      <td style="border:0;"><a href="u7red.php">Under 7 Red</a>
 								                      </td>
 								                  
-								                      <td style="border:0;"><a href="/u7white.php">Under 7 White</a>
+								                      <td style="border:0;"><a href="u7white.php">Under 7 White</a>
 								                      </td>
 								                
-								                  	<td style="border:0;"><a href="/u7yellow.php">Under 7 Yellow</a>
+								                  	<td style="border:0;"><a href="u7yellow.php">Under 7 Yellow</a>
 								                      </td>
 								                      
 								                      <td style="border:0;">&nbsp;
@@ -60,18 +60,18 @@ include "sitemenu.inc";?>
 								                      </tr>
 								                      
 								                       <tr>
-								                      <td style="border:0;"><a href="/u8blue.php">Under 8 Blue</a>
+								                      <td style="border:0;"><a href="u8blue.php">Under 8 Blue</a>
 								                      </td>
 								                      
-								                      <td style="border:0;"><a href="/u8brown.php">Under 8 Brown</a>
+								                      <td style="border:0;"><a href="u8brown.php">Under 8 Brown</a>
 								                      </td>
 								                  
-								                      <td style="border:0;"><a href="/u8green.php">Under 8 Green</a>
+								                      <td style="border:0;"><a href="u8green.php">Under 8 Green</a>
 								                      </td>
 								                      
-								                      <td style="border:0;"><a href="/u8purple.php">Under 8 Purple</a>
+								                      <td style="border:0;"><a href="u8purple.php">Under 8 Purple</a>
 								                      </td>
-								                  	<td style="border:0;"><a href="/u8red.php">Under 8 Red</a>
+								                  	<td style="border:0;"><a href="u8red.php">Under 8 Red</a>
 								                      </td>
 								                      
 								                      <td style="border:0;">&nbsp;
@@ -79,10 +79,10 @@ include "sitemenu.inc";?>
 								                  </tr>
 								                  
 								                  <tr>
-								                      <td style="border:0;"><a href="/u9_1.php">Under 9 Div 1</a>
+								                      <td style="border:0;"><a href="u9_1.php">Under 9 Div 1</a>
 								                      </td>
 								                      
-								                      <td style="border:0;"><a href="/u9_5.php">Under 9 Div 5</a>
+								                      <td style="border:0;"><a href="u9_5.php">Under 9 Div 5</a>
 								                      </td>
 								                  
 								                      <td style="border:0;">&nbsp;
@@ -99,13 +99,13 @@ include "sitemenu.inc";?>
 								                      </tr>
 								                      
 								                       <tr>
-								                      <td style="border:0;"><a href="/u10_2blue.php">Under 10 Div 2 Blue</a>
+								                      <td style="border:0;"><a href="u10_2blue.php">Under 10 Div 2 Blue</a>
 								                      </td>
 								                      
-								                      <td style="border:0;"><a href="/u10_2red.php">Under 10 Div 2 Red</a>
+								                      <td style="border:0;"><a href="u10_2red.php">Under 10 Div 2 Red</a>
 								                      </td>
 								                  
-								                      <td style="border:0;"><a href="/u10_7.php">Under 10 Div 7</a>
+								                      <td style="border:0;"><a href="u10_7.php">Under 10 Div 7</a>
 								                      </td>
 								                      
 								                      <td style="border:0;">&nbsp;
@@ -119,13 +119,13 @@ include "sitemenu.inc";?>
 								                      </tr>
 								                      
 								                       <tr>
-								                      <td style="border:0;"><a href="/u11_2.php">Under 11 Div 2</a>
+								                      <td style="border:0;"><a href="u11_2.php">Under 11 Div 2</a>
 								                      </td>
 								                      
-								                      <td style="border:0;"><a href="/u11_3.php">Under 11 Div 3</a>
+								                      <td style="border:0;"><a href="u11_3.php">Under 11 Div 3</a>
 								                      </td>
 								                  
-								                      <td style="border:0;"><a href="/u11_7.php">Under 11 Div 7</a>
+								                      <td style="border:0;"><a href="u11_7.php">Under 11 Div 7</a>
 								                      </td>
 								                      
 								                      <td style="border:0;">&nbsp;
@@ -139,7 +139,7 @@ include "sitemenu.inc";?>
 								                      </tr>
 								                      
 								                       <tr>
-								                      <td style="border:0;"><a href="/u12_6.php">Under 12 Div 6</a>
+								                      <td style="border:0;"><a href="u12_6.php">Under 12 Div 6</a>
 								                      </td>
 								                      
 								                      <td style="border:0;">&nbsp;
@@ -159,7 +159,7 @@ include "sitemenu.inc";?>
 								                      </tr>
 								                      
 								                      <tr>
-								                      <td style="border:0;"><a href="/u13_3.php">Under 13 Div 3</a>
+								                      <td style="border:0;"><a href="u13_3.php">Under 13 Div 3</a>
 								                      </td>
 								                      
 								                      <td style="border:0;">&nbsp;
@@ -179,7 +179,7 @@ include "sitemenu.inc";?>
 								                      </tr>
 								                      
 								                      <tr>
-								                      <td style="border:0;"><a href="/u14_2.php">Under 14 Div 2</a>
+								                      <td style="border:0;"><a href="u14_2.php">Under 14 Div 2</a>
 								                      </td>
 								                      
 								                      <td style="border:0;">&nbsp;
@@ -219,7 +219,7 @@ include "sitemenu.inc";?>
 								                      </tr>
 								                      
 								                      <tr>
-								                      <td style="border:0;"><a href="/u17_2.php">Under 17 Div 2</a>
+								                      <td style="border:0;"><a href="u17_2.php">Under 17 Div 2</a>
 								                      </td>
 								                      
 								                      <td style="border:0;">&nbsp;
@@ -239,13 +239,13 @@ include "sitemenu.inc";?>
 								                      </tr>
 								                      
 								                      <tr>
-								                      <td style="border:0;"><a href="/aa6.php">AA Div 6</a>
+								                      <td style="border:0;"><a href="aa6.php">AA Div 6</a>
 								                      </td>
 								                      
-								                      <td style="border:0;"><a href="/aa9.php">AA Div 9</a>
+								                      <td style="border:0;"><a href="aa9.php">AA Div 9</a>
 								                      </td>
 								                  
-								                      <td style="border:0;"><a href="/aa17.php">AA Div 17</a>
+								                      <td style="border:0;"><a href="aa17.php">AA Div 17</a>
 								                      </td>
 								                      
 								                      <td style="border:0;">&nbsp;
@@ -279,10 +279,10 @@ include "sitemenu.inc";?>
 								                      </tr>
 								                      
 								                      <tr>
-								                      <td style="border:0;"><a href="/o45_2.php">O45 Div 2</a>
+								                      <td style="border:0;"><a href="o45_2.php">O45 Div 2</a>
 								                      </td>
 								                      
-								                      <td style="border:0;"><a href="/o45_3.php">O45 Div 3</a>
+								                      <td style="border:0;"><a href="o45_3.php">O45 Div 3</a>
 								                      </td>
 								                  
 								                      <td style="border:0;">&nbsp;
