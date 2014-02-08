@@ -23,40 +23,38 @@ include "sitemenu.inc";?>
 You need to confirm all your player details and nominate the age group you wish to play for.
                                         </br> </br>
                                     <h3 class="index-title">Payment Process (online) </h3>
-</br> </br>
-Payment is to take place when you register.
+
+                                    Payment is to take place when you register.
 
 You have two choices on-line. You can pay by credit card or your can pay by EFT to the North Ryde Soccer Club.
 
 If you are paying by EFT it is important that you put a reference with your payment. Name and Age Group is ideal. 
 
-(eg Ryan Giggs U16).
+                                    (eg Ryan Giggs U16).</br></br>
 
-Registration Process - New Players (face to face or online)
+Registration Process - New Players (face to face or online)</br>
 
 If you are brand new to North Ryde or if you simply must register in the old way, then come along on Sunday 9th
 
-February from 1pm to 4pm at Nth Ryde RSL Youth Club. Bring your Cash or Cheque and Birth Certificate.
+February from 1pm to 4pm at Nth Ryde RSL Youth Club. Bring your Cash or Cheque and Birth Certificate.</br>
 
 A lot of new players like to go along to the Registration Day as they lots of questions to ask. We will have people on 
 
-hand to answer those questions. We also refer to the Playing at NRSC in 2014 Document.
+hand to answer those questions. We also refer to the Playing at NRSC in 2014 Document.</br>
 
 You can also choose to pay online, you can pay by credit card or you can do an EFT to our club bank account. 
 
-Player Photos
+Player Photos</br>
 
 All new players will need to provide the club with a Photo. This can be done by our team at Registration Day or you 
 
 can supply a photo on-line. Existing players may also need to provide an updated photo. The online process will 
 
-prompt you if this is required.
+prompt you if this is required.</br>
 
-Club Bank Account Details.
+Club Bank Account Details.</br>
 
-TB or Artak to Insert
-
-Registration Fees Please refer to the Club Fee Announcement.
+TB or Artak to Insert</br>
 
 Note that we have a two tiered Registration Fee in 2014. If you register and pay before the end of February 2014 
 
