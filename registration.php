@@ -15,7 +15,7 @@ include "sitemenu.inc";?>
 								<div class="article-content">
                                     <div class="RichTextElement">
                                         <div>
-                                            On behalf of the committee and board at North Ryde Soccer Club, we welcome you to the 2014 Season at North Ryde Soccer Club. The purpose of this bulletin is to provide you with the information you need to register to play at NRSC in season 2014.
+                                            On behalf of the committee and board at North Ryde Soccer Club, we welcome you to the 2014 Season at North Ryde Soccer Club. The purpose of this page is to provide you with the information you need to register to play at NRSC in season 2014.
                                             </br> </br>
                                     <h3 class="index-title">Registration Process Specific Guidelines (Existing Players)</h3>
                                     We encourage all current players to register online. Please <a href="http://www.myfootballclub.com.au/index.php?id=43" title="Register Online"><span class="in">Click Here To Register Online</span></a>.</br>
