@@ -42,7 +42,7 @@ A lot of new players like to go along to the Registration Day as they lots of qu
 
 hand to answer those questions. We also refer to the Playing at NRSC in 2014 Document.</br>
 
-You can also choose to pay online, you can pay by credit card or you can do an EFT to our club bank account. </br>
+You can also choose to pay online, you can pay by credit card or you can do an EFT to our club bank account. </br></br>
 
 <h3 class="index-title">Player Photos</h3>
 
@@ -50,7 +50,7 @@ All new players will need to provide the club with a Photo. This can be done by 
 
 can supply a photo on-line. Existing players may also need to provide an updated photo. The online process will 
 
-prompt you if this is required.</br>
+prompt you if this is required.</br></br>
 
 <h3 class="index-title">Club Bank Account Details.</h3>
 
