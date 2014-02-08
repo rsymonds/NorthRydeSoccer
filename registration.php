@@ -10,7 +10,7 @@ include "sitemenu.inc";?>
 					<div id="main">
 						<div id="main-top"></div>
                             						<div id="main-content">
-                            <h2 class="title"><span class="in">Online Registration</span></h2>
+                            <h2 class="title"><span class="in">Registration</span></h2>
 							<div class="article">
 								<div class="article-content">
                                     <div class="RichTextElement">
@@ -42,7 +42,7 @@ A lot of new players like to go along to the Registration Day as they lots of qu
 
 hand to answer those questions. We also refer to the Playing at NRSC in 2014 Document.</br>
 
-You can also choose to pay online, you can pay by credit card or you can do an EFT to our club bank account. 
+You can also choose to pay online, you can pay by credit card or you can do an EFT to our club bank account. </br>
 
 <h3 class="index-title">Player Photos</h3>
 
