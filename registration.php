@@ -14,16 +14,8 @@ include "sitemenu.inc";?>
 							<div class="article">
 								<div class="article-content">
 	<div class="RichTextElement">
-		<div><p><br /></p>
-			<div class="first graphic-container wide center">
-				<div style="" class="general-index graphic">
-					<div class="figure-content"><!-- sandvox.GeneralIndex -->
-						<div class="article i1 o">
-							<h3 class="index-title"><span class="in">Fees for the 2014 Season</span></h3>
-							<div class="article-summary">
-								<div>
-									<p>
-									<div class="CSSTableGenerator" >
+		<div>
+            <div class="CSSTableGenerator" >
                                         <table >
                                             <tr>
                                                 <td>
@@ -203,14 +195,6 @@ include "sitemenu.inc";?>
                                             </tr>
                                         </table>
                                     </div>
-									</p>
-								</div>
-							</div>
-						</div>
-						<div class="general-index-bottom"></div>
-					</div>
-				</div>
-			</div><br />
 		</div>
 	</div>
 </div> <!-- /article-content -->
