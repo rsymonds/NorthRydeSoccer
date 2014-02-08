@@ -14,7 +14,7 @@ include "sitemenu.inc";?>
 	<div class="RichTextElement">
 		<div><p><br />
 	
-				<img class="narrow graphic-container left" src="../images/objects/football_boots.jpg">
+				<img class="narrow graphic-container left" src="images/objects/football_boots.jpg">
 			
 		
                     The training times for the 2013 football season at the
