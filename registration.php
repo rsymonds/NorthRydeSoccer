@@ -15,9 +15,12 @@ include "sitemenu.inc";?>
 								<div class="article-content">
                                     <div class="RichTextElement">
                                         <div>
-                                            <div style='align:centre'>
-                                               <a href="https://live.myfootballclub.com.au/SelfReg/Login.aspx" title="Register Online"><span class="in">Click Here To Register Online</span></a>
-                                            </div>
+                                            On behalf of the committee and board at North Ryde Soccer Club, we welcome you to the 2014 Season at North Ryde Soccer Club. The purpose of this bulletin is to provide you with the information you need to register to play at NRSC in season 2014.
+                                            </br> </br>
+                                    <h3 class="index-title">Registration Process Specific Guidelines (Existing Players)</h3>
+                                    We encourage all current players to register online. Please <a href="http://www.myfootballclub.com.au/index.php?id=43" title="Register Online"><span class="in">Click Here To Register Online</span></a>.</br>
+                                      Additional instructions to help you with the online registration process can be found in the <a href=""></a>.
+                                                        </div>
                                            When you register online as an existing player you will already have an FFA number.
 
 You need to confirm all your player details and nominate the age group you wish to play for.
@@ -54,13 +57,13 @@ prompt you if this is required.</br></br>
 
 <h3 class="index-title">Club Bank Account Details.</h3>
 
-TB or Artak to Insert</br>
+Commonwealth Bank – Account Name: North Ryde Soccer Club BSB # 062 281 Acc Number # 00906894</br>
 
 Note that we have a two tiered Registration Fee in 2014. If you register and pay before the end of February 2014 
 
 you pay our early bird price. If you register late you will pay the standard price.
 
-For more information check out our club website or feel free to send us an email.
+for more information please email <a mailto="admin@northrydesoccer.com.au">admin@northrydesoccer.com.au</a>.
                                         </div>
                                     </div>    
                                 </div> <!-- /article-content -->

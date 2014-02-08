@@ -34,18 +34,18 @@ include "sitemenu.inc";?>
 				die(mysql_errno().' : '.mysql_error());			
 			}
 		?>
-		
-		<table style="width:100%;" cellspacing="0" cellpadding="0">
+		<div class="CSSTableGenerator" >
+		<table>
                 <tr>
-                  <th>Age Group</th>
-                  <th>Division</th>	
-                  <th>Round</th>
-                  <th>Date</th>
-                  <th>Time</th>
-                  <th>Opposition</th>
-                  <th>Ground</th>
-                  <th>GF</th>
-                  <th>GA</th>
+                  <td>Age Group</td>
+                  <td>Division</td>	
+                  <td>Round</td>
+                  <td>Date</td>
+                  <td>Time</td>
+                  <td>Opposition</td>
+                  <td>Ground</td>
+                  <td>GF</td>
+                  <td>GA</td>
                 </tr>
                 
 						
@@ -80,12 +80,12 @@ include "sitemenu.inc";?>
 				if ($Report == '1') {								
 					$ReportText = '<td><a href="reports.php"><img class="noborder" src="images/objects/envelope.gif"></a></td>';							
 				}													  
-				print '<tr class="bgyellow"><td>'.$fixturerow['age_group'].'</td><td>'.$fixturerow['division'].'</td><td>'.$fixturerow['round'].'</td><td nowrap>'.$sDate.'</td><td>'.$fixturerow['time'].'</td><td>'.$fixturerow['opposition'].'</td><td>'.$fixturerow['field'].'</td><td>'.$Goalsfor.'</td><td>'.$Goalsagainst.'</td></tr>';					 
+				print '<tr><td>'.$fixturerow['age_group'].'</td><td>'.$fixturerow['division'].'</td><td>'.$fixturerow['round'].'</td><td nowrap>'.$sDate.'</td><td>'.$fixturerow['time'].'</td><td>'.$fixturerow['opposition'].'</td><td>'.$fixturerow['field'].'</td><td>'.$Goalsfor.'</td><td>'.$Goalsagainst.'</td></tr>';					 
 			}												
 		mysql_close($link)					
 		?>
                         </table>
-                        
+                                            </div>
                         
 										</div>
 									</div>
