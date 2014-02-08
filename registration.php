@@ -195,8 +195,22 @@ include "sitemenu.inc";?>
                                             </tr>
                                         </table>
                                     </div>
+<<<<<<< HEAD
 		</div>
 	</div>
+=======
+                                    <ul>
+                                        <li>If you pay your registration before the 28th February you are entitled to the Early Bird Registration Fee.</li>
+                                        <li>If you pay your registration after this date and before the 15th of March, you pay the Full Registration Fee.</li>
+                                        <li>Fees includes the GHFA Player Levy and the FFA Levy and Player Injury Insurance</li>
+                                        <li>Fees due on Registration of the player. You can pay Online by Credit Card or EFT. You can also Register at one of the Registration Days and Pay Cash or Cheque.</li>
+                                        <li>The club provides each player with a NRSC jersey that is on-loan for the season</li>
+                                        <li>Discount for three or more players from the one family (10% off) . You pay the full registration and then the club Reimburses you the discount.</li>
+                                        <li>You will need to purchase Club Socks and Club Shorts. You will also need Boots and Shin Pads. The Club will again provide Socks, Shorts, Shin Pads for sale, as well as a Used Soccer Boot Exchange.</li>
+                                        <li>You play in the age division for the age you are turning in your 2014 Birthday. So if you turn 8 you are U8. Over 35s must be 35 before they can play.</li>
+                                    </ul>
+
+>>>>>>> b96f4177b636e2f283ec35d8005db38f6072abe5
 </div> <!-- /article-content -->
 								<div class="article-info">
 								</div> <!-- /article-info -->
