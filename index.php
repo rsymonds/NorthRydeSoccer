@@ -50,7 +50,7 @@ include "sitemenu.inc";?>
 								<div class="article">
 									<div class="article-content">
 										<div class="RichTextElement">
-                                            <div><p>The How and How Much of the 2014 regsitration process has been completed and the details can now be found under Player Information > Registration or by clicking <a href="">here.</a></br>
+                                            <div><p>The How and How Much of the 2014 registration process has been completed and the details can now be found under Player Information > Registration or by clicking <a href="registration.php">here.</a></br>
                                             We look forward to seeing everyone back out on the paddock enjoying their football and keeping fit to boot. 
 				
 			</div>							
