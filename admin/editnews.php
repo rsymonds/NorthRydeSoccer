@@ -56,7 +56,6 @@ function refreshParent(action) {
     <body>
     <?php 
     $action = $_POST["action"];
-    $mysqlDatabase = 'northryd_news';
     $id = $_GET["id"];
 
     if (($action == "save")) {
@@ -68,13 +67,9 @@ function refreshParent(action) {
     	$oDate = new DateTime($date);
     	
     	$sDate = $oDate->format("Y-m-d");
-	    if (!$link = mysql_connect('localhost','northryd_admin','n0rthryde')) {
-	    	die(mysql_errno().' : '.mysql_error());
-	    }
-	    
-	    if (!mysql_select_db($mysqlDatabase)) {
-	    	die(mysql_errno().' : '.mysql_error());
-	    }
+	    include 'PHP/database.php';
+$dbObject = new database();
+            $dbObject->getConnection();
 	   
 	    $query = 'UPDATE `News` SET `Date`=\''.$sDate.'\',`Time`=\''.$time.'\',`Text`=\''.$text.'\',`Location`=\''.$location.'\' WHERE id = '.$id;
 

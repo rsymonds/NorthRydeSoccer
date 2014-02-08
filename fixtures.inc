@@ -1,13 +1,8 @@
 		<?php 			
 			
-			$mysqlDatabase = 'northryd_news';
-			if (!$link = mysql_connect('localhost','northryd_admin','n0rthryde')) {
-				die(mysql_errno().' : '.mysql_error());
-			}
-			
-			if (!mysql_select_db($mysqlDatabase)) {
-				die(mysql_errno().' : '.mysql_error());
-			}
+			include 'PHP/database.php';
+$dbObject = new database();
+            $dbObject->getConnection();
 			$fixturesQuery = 'SELECT * FROM Draw where year = \''.$year.'\' and age_group = \''.$agegroup.'\' and division = \''.$division.'\' order by date';
 			if (!$fixtureResults = mysql_query($fixturesQuery)) {			
 				die(mysql_errno().' : '.mysql_error());			
@@ -58,7 +53,7 @@
 				}													  
 				print '<tr class="bgyellow"><td>'.$fixturerow['round'].'</td><td>'.$sDate.'</td><td>'.$fixturerow['time'].'</td><td>'.$fixturerow['opposition'].'</td><td>'.$fixturerow['field'].'</td><td>'.$Goalsfor.'</td><td>'.$Goalsagainst.'</td></tr>';					 
 			}												
-		mysql_close($link)					
+		$dbObject->closeConnection();				
 		?>
                         </table>
  

@@ -36,18 +36,14 @@ function refreshParent(action) {
 </head><body bgcolor="#FFFFFF"><script type="text/javascript">function Go() {return;}</script><noscript>Your browser does not support JavaScript</noscript><table class="pagearea" cellspacing="0" cellpadding="0">        <!-- Page content --> <tr >          <td>            <table align="center" class="contentwidth" cellspacing="0" cellpadding="0">             <tr>              <td>                <table class="fullwidth" cellspacing="0" cellpadding="0">                <tr>                  <!-- Left Column -->                  <td>                    <table class="fullwidth" cellspacing="0" cellpadding="0">                    <tr>                    <td>						    <table width="600">							<tr><td>
     <?php 
     $action = $_POST['action'];
-    $mysqlDatabase = 'northryd_news';
+    
     $id = $_GET['id'];		$age_group = $_SESSION['age_group'];	$division = $_SESSION['division'];	$username = $_SESSION['UserName'];	$year = date('Y');
 
     if (($action == 'save')) {
 		$text = $_POST['text'];		$submitted_by = $_POST['submitted_by'];
-	    if (!$link = mysql_connect('localhost','northryd_admin','n0rthryde')) {
-	    	die(mysql_errno().' : '.mysql_error());
-	    }
-	    
-	    if (!mysql_select_db($mysqlDatabase)) {
-	    	die(mysql_errno().' : '.mysql_error());
-	    }
+	    include 'PHP/database.php';
+$dbObject = new database();
+            $dbObject->getConnection();
 	    $query = 'Select * from reports where year = \''.$year.'\' and age_group = \''.$age_group.'\' and division = \''.$division.'\' and round = \''.$id.'\'';
 	    $result = mysql_query($query);		if(mysql_num_rows($result) < 1) {				$query = 'INSERT INTO `reports`(`year`, `age_group`, `division`, `round`, `text`, `submitted_by`) VALUES (\''.$year.'\',\''.$age_group.'\',\''.$division.'\',\''.$id.'\',\''.$text.'\',\''.$submitted_by.'\')';			$update_draw = 'UPDATE `Draw` SET `report` = \'1\'  WHERE year = \''.$year.'\' and age_group = \''.$age_group.'\' and division = \''.$division.'\' and round = \''.$id.'\'';			if (!$draw_results = mysql_query($update_draw)) {				die(mysql_errno().' : '.mysql_error());			}		} else {  			$query = 'UPDATE reports SET text= \''.$text.'\',submitted_by= \''.$submitted_by.'\' WHERE year = \''.$year.'\' and age_group = \''.$age_group.'\' and division = \''.$division.'\' and round = \''.$id.'\'';		} 				if (!$results = mysql_query($query)) {
 	    	die(mysql_errno().' : '.mysql_error());

@@ -1,12 +1,7 @@
 		<?php 
-			$mysqlDatabase = 'northryd_news';
-			if (!$link = mysql_connect('localhost','northryd_admin','n0rthryde')) {
-			die(mysql_errno().' : '.mysql_error());
-			}
-			
-			if (!mysql_select_db($mysqlDatabase)) {
-				die(mysql_errno().' : '.mysql_error());
-			}
+		include 'PHP/database.php';
+$dbObject = new database();
+            $dbObject->getConnection();
 
 			$query = 'SELECT * FROM Message where id = \'1\'';
 						
@@ -40,4 +35,4 @@
 		<?php if ($Message == '') { 
 		print '-->';
 		} 
-		mysql_close($link);?>
+		$dbObject->closeConnection();?>

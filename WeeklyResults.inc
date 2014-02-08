@@ -1,12 +1,7 @@
 		<?php 			$round = '17';			$date = '11 August 2012';			$ReportDate = '20120811';
-			$mysqlDatabase = 'northryd_news';
-			if (!$link = mysql_connect('localhost','northryd_admin','n0rthryde')) {
-			die(mysql_errno().' : '.mysql_error());
-			}
-			
-			if (!mysql_select_db($mysqlDatabase)) {
-				die(mysql_errno().' : '.mysql_error());
-			}			
+			include 'PHP/database.php';
+$dbObject = new database();
+            $dbObject->getConnection();
 			$JuniorQuery = 'SELECT * FROM `Draw` WHERE year = \'2012\' and `round` = \''.$round.'\' and `age_group` in (\'09\', \'10\', \'11\',\'12\',\'13\',\'14\',\'15\',\'16\') order by age_group, division';			
 			$AAQuery = 'SELECT * FROM `Draw` WHERE year = \'2012\' and `round` = \''.$round.'\' and `age_group` = \'AA\' order by age_group,  division+0';			
 			$O35Query = 'SELECT * FROM `Draw` WHERE year = \'2012\' and `round` = \''.$round.'\' and `age_group` = \'O35\' order by age_group,  division+0';
@@ -207,7 +202,7 @@
 		</td>                 
 		</tr>			
 		<?php				
-		mysql_close($link)			
+		$dbObject->closeConnection();			
 		?>
                       
 

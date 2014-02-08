@@ -66,14 +66,9 @@ function edit(url) {
 	<div class="RichTextElement">
 		<div><p>
                 	<?php 			
-                		$mysqlDatabase = 'northryd_news';			
-                		if (!$link = mysql_connect('localhost','northryd_admin','n0rthryde')) {			
-                			die(mysql_errno().' : '.mysql_error());			
-                		}						
-                		
-                		if (!mysql_select_db($mysqlDatabase)) {				
-                			die(mysql_errno().' : '.mysql_error());			
-                		}		
+                		include 'PHP/database.php';
+$dbObject = new database();
+            $dbObject->getConnection();
                 	?>							 
                 	<form name="managerform" action="ManagerAdmin.php" method="POST">            			
                 	<?php						
@@ -131,7 +126,7 @@ function edit(url) {
                 	 		}													  
                 	 		print '<tr class="bgyellow"><td><input type=checkbox name="current" value="'.$fixturerow['round'].'" onClick="Javascript:checkSelected(this);"></td><td>'.$fixturerow['round'].'</td><td>'.$sDate.'</td><td>'.$fixturerow['time'].'</td><td>'.$fixturerow['opposition'].'</td><td>'.$fixturerow['field'].'</td><td>'.$Goalsfor.'</td><td>'.$Goalsagainst.'</td>'.$Result.$ReportText.'</tr>';					 
                 	 	}								
-                	 	mysql_close($link)					
+                	 	$dbObject->closeConnection();					
                 	 	?>                        
                 	 	</table>                      
                 	 	</td>                    

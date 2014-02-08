@@ -55,18 +55,9 @@ function submitForm(action) {
 						
 						$action = $_POST["action"];						$infomessage = $_POST["comments"];
 						$_POST["action"] = '';
-						$mysqlHostname = 'localhost';
-						$mysqlUsername = 'northryd_admin';
-						$mysqlPassword = 'n0rthryde';
-						$mysqlDatabase = 'northryd_news';
-						
-						if (!$link = mysql_connect('localhost','northryd_admin','n0rthryde')) {
-						die(mysql_errno().' : '.mysql_error());
-						}
-						
-						if (!mysql_select_db($mysqlDatabase)) {
-							die(mysql_errno().' : '.mysql_error());
-						}
+						include 'PHP/database.php';
+$dbObject = new database();
+            $dbObject->getConnection();
 						
 						if ($action == 'clear') {
 							$deletequery = 'Update `Message` SET `Message`=\'\' WHERE id = \'1\'';
@@ -111,7 +102,7 @@ function submitForm(action) {
 						<button type="button" onClick="Javascript:submitForm('clear');">Clear Message</button>
 						</form>
 						<?php print $message; 
-						mysql_close($link);?>
+						$dbObject->closeConnection();?>
 						   </span>
 						   
 						   </td></tr>

@@ -58,21 +58,9 @@ if ( isset($_POST["submit"]) ) {
         }
         else {
 
-			 $mysqlDatabase = 'northryd_news';
-			 
-				if (!$link = mysql_connect('localhost','northryd_admin','n0rthryde')) {
-
-				die(mysql_errno().' : '.mysql_error());
-
-				}
-
-				
-
-				if (!mysql_select_db($mysqlDatabase)) {
-
-					die(mysql_errno().' : '.mysql_error());
-
-				}
+			include 'PHP/database.php';
+$dbObject = new database();
+            $dbObject->getConnection();
                $f = fopen($_FILES["file"]["tmp_name"], 'r');
 				if ($f) {
 					while ($line = fgetcsv($f)) {  // You might need to specify more parameters
@@ -204,7 +192,7 @@ if ( isset($_POST["submit"]) ) {
 						print 'Draw loaded without errors';
 					}
 					fclose($f);
-					mysql_close($link);
+					$dbObject->closeConnection();
 					
 				} else {
 					// error

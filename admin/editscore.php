@@ -42,19 +42,14 @@ function refreshParent(action) {
   </head><body bgcolor="#FFFFFF"><script type="text/javascript">function Go() {return;}</script><noscript>Your browser does not support JavaScript</noscript><table class="pagearea" cellspacing="0" cellpadding="0">        <!-- Page content --> <tr >          <td>            <table align="center" class="contentwidth" cellspacing="0" cellpadding="0">             <tr>              <td>                <table class="fullwidth" cellspacing="0" cellpadding="0">                <tr>                  <!-- Left Column -->                  <td>                    <table class="fullwidth" cellspacing="0" cellpadding="0">                    <tr>                    <td>						    <table width="600">							<tr><td>
     <?php 
     $action = $_POST['action'];
-    $mysqlDatabase = 'northryd_news';
     $id = $_GET['id'];		$age_group = $_SESSION['age_group'];	$division = $_SESSION['division'];	$username = $_SESSION['UserName'];	$year = date('Y');
 
     if (($action == 'save')) {
     	$goals_for = $_POST['goals_for'];
     	$goals_against = $_POST['goals_against'];
-	    if (!$link = mysql_connect('localhost','northryd_admin','n0rthryde')) {
-	    	die(mysql_errno().' : '.mysql_error());
-	    }
-	    
-	    if (!mysql_select_db($mysqlDatabase)) {
-	    	die(mysql_errno().' : '.mysql_error());
-	    }
+	    include 'PHP/database.php';
+$dbObject = new database();
+            $dbObject->getConnection();
 	   
 	    $query = 'UPDATE Draw SET goals_for= \''.$goals_for.'\',goals_against= \''.$goals_against.'\' WHERE year = \''.$year.'\' and age_group = \''.$age_group.'\' and division = \''.$division.'\' and round = \''.$id.'\'';
 

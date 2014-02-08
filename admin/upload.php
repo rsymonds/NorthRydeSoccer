@@ -2,20 +2,15 @@
 // include ImageManipulator class
 require_once('ImageManipulator.php');
 
- $mysqlDatabase = 'northryd_news';
     $id = $_POST['id'];	
     $age_group = $_POST['age_group'];	
     $division = $_POST['division'];	
     $username = $_POST['UserName'];	
     $year = date('Y');
     
-    if (!$link = mysql_connect('localhost','northryd_admin','n0rthryde')) {
-    		die(mysql_errno().' : '.mysql_error());
-	}
-	 
-	if (!mysql_select_db($mysqlDatabase)) {
-		die(mysql_errno().' : '.mysql_error());
-	}
+    include 'PHP/database.php';
+    $dbObject = new database();
+    $dbObject->getConnection();
 	
 	$query = 'SELECT MAX(imageNo) AS maxIndex FROM `report_images` WHERE year = \''.$year.'\' and age_group = \''.$age_group.'\' and division = \''.$division.'\'';
 	
@@ -69,4 +64,5 @@ if ($_FILES['fileToUpload']['error'] > 0) {
         echo 'You must upload an image...';
     }
 }
+$dbObject->closeConnection();
 ?>

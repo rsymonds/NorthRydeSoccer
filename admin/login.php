@@ -9,18 +9,9 @@ $redirect = $_SESSION["redirect"];
 
 if (($username != null) && ($password != null)) {
 	//connect to the database here
-	$mysqlHostname = 'localhost';
-	$mysqlUsername = 'northryd_admin';
-	$mysqlPassword = 'n0rthryde';
-	$mysqlDatabase = 'northryd_news';
-
-	if (!$link = mysql_connect('localhost','northryd_admin','n0rthryde')) {
-		die(mysql_errno().' : '.mysql_error());
-	}
-
-	if (!mysql_select_db($mysqlDatabase)) {
-		die(mysql_errno().' : '.mysql_error());
-	}
+	include 'PHP/database.php';
+$dbObject = new database();
+            $dbObject->getConnection();
 
 	$query = "SELECT password FROM users WHERE username = '$username';";
 	$result = mysql_query($query);

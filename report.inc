@@ -1,14 +1,8 @@
+
 <?php 
-
-$mysqlDatabase = 'northryd_news';
-
-			if (!$link = mysql_connect('localhost','northryd_admin','n0rthryde')) {
-				die(mysql_errno().' : '.mysql_error());
-			}
-
-			if (!mysql_select_db($mysqlDatabase)) {
-				die(mysql_errno().' : '.mysql_error());
-			}
+include 'PHP/database.php';
+$dbObject = new database();
+            $dbObject->getConnection();
 			
 			$reportquery = 'SELECT * FROM `reports` WHERE year = \''.$year.'\' and age_group = \''.$agegroup.'\' and division = \''.$division.'\' order by round DESC';		
 

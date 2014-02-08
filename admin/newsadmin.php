@@ -203,18 +203,9 @@ function editItem(url) {
 						$id = $_POST["id"];
 						$_POST["action"] = '';
 						$_POST["id"] = '';
-						$mysqlHostname = 'localhost';
-						$mysqlUsername = 'northryd_admin';
-						$mysqlPassword = 'n0rthryde';
-						$mysqlDatabase = 'northryd_news';
-						
-						if (!$link = mysql_connect('localhost','northryd_admin','n0rthryde')) {
-						die(mysql_errno().' : '.mysql_error());
-						}
-						
-						if (!mysql_select_db($mysqlDatabase)) {
-							die(mysql_errno().' : '.mysql_error());
-						}
+						include 'PHP/database.php';
+$dbObject = new database();
+            $dbObject->getConnection();
 						
 						if ($action == 'delete') {
 							$deletequery = 'DELETE FROM `News` WHERE id = \'' . $id . '\'';
@@ -332,7 +323,7 @@ function editItem(url) {
 						<button type="button" onClick="Javascript:submitForm('delete');">Delete News Item</button>
 						</form>
 						<?php print $message; 
-						mysql_close($link);?>
+						$dbObject->closeConnection();?>
 						   </span>
 						   
 						   </td></tr>
