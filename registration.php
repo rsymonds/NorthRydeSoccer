@@ -23,9 +23,9 @@ include "sitemenu.inc";?>
 							<div class="article-summary">
 								<div>
 									<p>
-									
+									<div class="CSSTableGenerator" >
                                         <table >
-                                            <th>
+                                            <tr>
                                                 <td>
                                                     Age Group
                                                 </td>
@@ -35,7 +35,7 @@ include "sitemenu.inc";?>
                                                 <td>
                                                     Full Fee
                                                 </td>
-                                            </th>
+                                            </tr>
                                             <tr>
                                                 <td >
                                                     Under 6  - Boys and Girls
@@ -202,7 +202,7 @@ include "sitemenu.inc";?>
                                                 </td>
                                             </tr>
                                         </table>
-                                   
+                                    </div>
 									</p>
 								</div>
 							</div>
