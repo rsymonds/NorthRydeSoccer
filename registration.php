@@ -63,7 +63,7 @@ Note that we have a two tiered Registration Fee in 2014. If you register and pay
 
 you pay our early bird price. If you register late you will pay the standard price.
 
-for more information please email <a mailto="admin@northrydesoccer.com.au">admin@northrydesoccer.com.au</a>.
+for more information please email <a href="href="mailto:admin@northrydesoccer.com.au?subject=Registration Query">admin@northrydesoccer.com.au</a>.
                                         </div>
                                     </div>    
                                 </div> <!-- /article-content -->
@@ -129,7 +129,7 @@ for more information please email <a mailto="admin@northrydesoccer.com.au">admin
                                                                                     $160.00
                                                                                 </td>
                                                                                 <td>
-                                                                                    $70.00
+                                                                                    $170.00
                                                                                 </td>
                                                                             </tr>
                                                                            <tr>
