@@ -7,6 +7,7 @@
 			<li class="i2 e <?php echo ($currentPage == 'ABOUT' ? 'currentPage"><span class="in">About NRSC</span></li>' : '"><a href="about.php" title="About NRSC"><span class="in">About NRSC</span></a></li>') ?>
 			<li class="i3 o hasSubmenu <?php echo ($currentPage == 'PLAYER' ? 'currentPage"><span class="in">Player Information</span>' : '"><a href="#" title="Player Information"><span class="in">Player Information</span></a>') ?>
 				<ul class="isSubMenu">
+                    <li class="i1 o <?php echo ($currentPage == 'REGISTRATION' ? 'currentPage"><span class="in">Registration</span></li>' : '"><a href="registration.php" title="Registration"><span class="in">Registration</span></a></li>') ?>
 					<li class="i1 o <?php echo ($currentPage == 'TRAINING' ? 'currentPage"><span class="in">Training</span></li>' : '"><a href="training.php" title="Training"><span class="in">Training</span></a></li>') ?>
 					<li class="i2 e <?php echo ($currentPage == 'GROUNDS' ? 'currentPage"><span class="in">Grounds</span></li>' : '"><a href="grounds.php" title="Grounds"><span class="in">Grounds</span></a></li>') ?>
 					<li class="i3 o <?php echo ($currentPage == 'LIBRARY' ? 'currentPage"><span class="in">Library</span></li>' : '"><a href="library.php" title="Library"><span class="in">Library</span></a></li>') ?>
