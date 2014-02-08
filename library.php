@@ -18,22 +18,7 @@ include "sitemenu.inc";?>
 			<div class="first graphic-container wide center">
 				<div style="" class="general-index graphic">
 					<div class="figure-content"><!-- sandvox.GeneralIndex -->
-						<div class="article i1 o">
-							<h3 class="index-title"><span class="in">Registration</span></h3>
-							<div class="article-summary">
-								<div>
-									<p>
-									<ul>
-									<li><a href="documents/library/Fee Announcement- 2013.pdf" title="Registration Fees"><span class="in">2013 Registration Fees</span></a></li>
-									<li><a href="documents/library/Fee Announcement- 2013.pdf" title="Registration Fees"><span class="in">2013 Registration Form</span></a></li>
-									<li><a href="documents/library/Fee Announcement- 2013.pdf" title="Registration Fees"><span class="in">2013 Insurance Form</span></a></li>
-									<li><a href="documents/library/Fee Announcement- 2013.pdf" title="Registration Fees"><span class="in">FFA Registration Form</span></a></li>
-									</ul>
-									</p>
-								</div>
-							</div>
-						</div>
-						<div class="article i2 e">
+						<div class="article i1 e">
 							<h3 class="index-title"><span class="in">Substitution Sheets</span></h3>
 							<div class="article-summary">
 								<div>
@@ -49,7 +34,7 @@ include "sitemenu.inc";?>
 								</div>
 							</div>
 						</div>
-						<div class="article i3 o">
+						<div class="article i2 o">
 							<h3 class="index-title"><span class="in">Minis Ideas & Info</span></h3>
 							<div class="article-summary">
 								<div>
@@ -65,7 +50,7 @@ include "sitemenu.inc";?>
 								</div>
 							</div>
 						</div>
-						<div class="article i2 e">
+						<div class="article i3 e">
 							<h3 class="index-title"><span class="in">Info for Officials</span></h3>
 							<div class="article-summary">
 								<div>
@@ -79,7 +64,7 @@ include "sitemenu.inc";?>
 								</div>
 							</div>
 						</div>
-						<div class="article i2 o last-item">
+						<div class="article i4 o last-item">
 							<h3 class="index-title"><span class="in">General Documents</span></h3>
 							<div class="article-summary">
 								<div>
