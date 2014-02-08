@@ -19,7 +19,7 @@ include "sitemenu.inc";?>
                                             </br> </br>
                                     <h3 class="index-title">Registration Process Specific Guidelines (Existing Players)</h3>
                                     We encourage all current players to register online. Please <a href="http://www.myfootballclub.com.au/index.php?id=43" title="Register Online"><span class="in">Click Here To Register Online</span></a>.</br>
-                                Additional instructions to help you with the online registration process can be found in the <a href="documents/notices/2014/FFA Self Registration.pdf" title="FFA Self Registration" target="_blank">FFA Self Registration</a> document.
+                                Additional instructions to help you with the online registration process can be found in the <a href="documents/notices/2014/FFA Self Registration.pdf" title="FFA Self Registration">FFA Self Registration</a> document.
                                                         </div>
                                            When you register online as an existing player you will already have an FFA number.
 
