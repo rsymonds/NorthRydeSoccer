@@ -1174,11 +1174,11 @@ body.allow-sidebar .gridItem h3 {
 
 .callout-container, .graphic-container { clear:both; }
 
-#table {
-	width: 510px;
-	padding: 0;
-	margin: 0;
-}
+*#table {
+*	width: 510px;
+*	padding: 0;
+*	margin: 0;
+*}
 
 *th {
 *	font: bold 11px "Lucida Grande", "Lucida Sans Unicode", Verdana, Arial, sans-serif;
