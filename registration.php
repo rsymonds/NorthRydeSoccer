@@ -32,7 +32,7 @@ If you are paying by EFT it is important that you put a reference with your paym
 
                                     (eg Ryan Giggs U16).</br></br>
 
-Registration Process - New Players (face to face or online)</br>
+<h3 class="index-title">Registration Process - New Players (face to face or online)</h3>
 
 If you are brand new to North Ryde or if you simply must register in the old way, then come along on Sunday 9th
 
@@ -44,7 +44,7 @@ hand to answer those questions. We also refer to the Playing at NRSC in 2014 Doc
 
 You can also choose to pay online, you can pay by credit card or you can do an EFT to our club bank account. 
 
-Player Photos</br>
+<h3 class="index-title">Player Photos</h3>
 
 All new players will need to provide the club with a Photo. This can be done by our team at Registration Day or you 
 
@@ -52,7 +52,7 @@ can supply a photo on-line. Existing players may also need to provide an updated
 
 prompt you if this is required.</br>
 
-Club Bank Account Details.</br>
+<h3 class="index-title">Club Bank Account Details.</h3>
 
 TB or Artak to Insert</br>
 
