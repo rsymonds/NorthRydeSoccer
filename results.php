@@ -1,6 +1,6 @@
 <?php readfile("headerNSB.inc"); ?>
 <!-- title -->
-
+<?php include 'PHP/database.php'; ?>
 <?php $currentPage = 'RESULTS'; 
 include "sitemenu.inc";?>
 <div class="clear below-page-top"></div>
@@ -15,15 +15,9 @@ include "sitemenu.inc";?>
 									<div class="RichTextElement">
 										<div>
 											<?php 			
+			$dbObject = new database();
+            $dbObject->getConnection();
 			
-			$mysqlDatabase = 'northryd_news';
-			if (!$link = mysql_connect('localhost','northryd_admin','n0rthryde')) {
-				die(mysql_errno().' : '.mysql_error());
-			}
-			
-			if (!mysql_select_db($mysqlDatabase)) {
-				die(mysql_errno().' : '.mysql_error());
-			}
 			
 			$lowerdate = '2013-07-27';
 			$upperdate = '2013-07-28';
@@ -82,7 +76,7 @@ include "sitemenu.inc";?>
 				}													  
 				print '<tr><td>'.$fixturerow['age_group'].'</td><td>'.$fixturerow['division'].'</td><td>'.$fixturerow['round'].'</td><td nowrap>'.$sDate.'</td><td>'.$fixturerow['time'].'</td><td>'.$fixturerow['opposition'].'</td><td>'.$fixturerow['field'].'</td><td>'.$Goalsfor.'</td><td>'.$Goalsagainst.'</td></tr>';					 
 			}												
-		mysql_close($link)					
+		$dbObject->closeConnection();					
 		?>
                         </table>
                                             </div>
