@@ -8,9 +8,9 @@
         <meta http-equiv="X-UA-Compatible" content="IE=100" />
 		<link rel="Shortcut Icon" type="image/x-icon" href="favicon.ico" />
 		<link rel="canonical" href="http://www.northrydesoccer.com.au/admin" />
-		<link rel="stylesheet" type="text/css" href="/_Resources/ddsmoothmenu.css" />
-		<link rel="stylesheet" type="text/css" href="/stylesheets/main.css" /><!--[if lt IE 8]>
-<link rel="stylesheet" type="text/css" href="/stylesheets/ie8.css" /><![endif]-->
+		<link rel="stylesheet" type="text/css" href="_Resources/ddsmoothmenu.css" />
+		<link rel="stylesheet" type="text/css" href="stylesheets/main.css" /><!--[if lt IE 8]>
+<link rel="stylesheet" type="text/css" href="stylesheets/ie8.css" /><![endif]-->
 		
 		<!--script src="//ajax.aspnetcdn.com/ajax/jQuery/jquery-1.6.4.min.js"></script-->
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.min.js" type="text/javascript"></script>
