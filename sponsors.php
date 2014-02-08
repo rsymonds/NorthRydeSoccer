@@ -16,7 +16,7 @@ include "sitemenu.inc";?>
 									<div class="RichTextElement">
 										<div>
 											<div class="pagelet bordered titled i1 o">
-												<a href="http://www.northrydersl.com.au/" target="_blank"><img class="narrow graphic-container" alt="Click for further information" src="/images/sponsors/north_ryde_rsl.jpg"></a>
+												<a href="http://www.northrydersl.com.au/" target="_blank"><img class="narrow graphic-container" alt="Click for further information" src="images/sponsors/north_ryde_rsl.jpg"></a>
 												The <span style="text-decoration: bold;">North Ryde RSL</span> is a stylish club with fantastic
 								                		facilities including the <span class="italic">Tribal Zone</span> for kids,
 								                		several eateries and restaurants. Enjoy the amenities and relax in surroundings
@@ -41,7 +41,7 @@ include "sitemenu.inc";?>
 									<div class="RichTextElement">
 										<div>
 											<div class="pagelet bordered titled i1 o">
-												<a href="http://www.lifetimeadvisers.com.au/" target="_blank"><img class="narrow graphic-container" alt="Click for further information" src="/images/sponsors/lifetime_advisers.jpg"></a>
+												<a href="http://www.lifetimeadvisers.com.au/" target="_blank"><img class="narrow graphic-container" alt="Click for further information" src="images/sponsors/lifetime_advisers.jpg"></a>
 										                <span class="bold">Lifetime Advisers</span> is an independently owned and
 										                operating financial planning and mortgage broking business. Offers advice
 										                on super, shares, borrowing to invest, insurance, home loans and business
@@ -70,7 +70,7 @@ include "sitemenu.inc";?>
 									<div class="RichTextElement">
 										<div>
 											<div class="pagelet bordered titled i1 o">
-												<img class="narrow graphic-container" src="/images/sponsors/fedeles.jpg">
+												<img class="narrow graphic-container" src="images/sponsors/fedeles.jpg">
 										                <span class="bold">Fedele's Pizza Restaurant</span> is our local best kept
 										                secret. An informal Italian restaurant located adjacent to a secure children's
 										                playground. BYO from bottle shop next door with yummy gourmet pizzas as well
@@ -95,7 +95,7 @@ include "sitemenu.inc";?>
 									<div class="RichTextElement">
 										<div>
 											<div class="pagelet bordered titled i1 o">
-												<img class="narrow graphic-container" src="/images/sponsors/coxs_road_hardware.jpg">
+												<img class="narrow graphic-container" src="images/sponsors/coxs_road_hardware.jpg">
 										                <span class="bold">Cox's Road Hardware</span> offers a great range that caters
 										                to tradesmen and DIY's needs. Conveniently located in Coxs Road Mall they are
 										                open 7 days.
@@ -117,7 +117,7 @@ include "sitemenu.inc";?>
 									<div class="RichTextElement">
 										<div>
 											<div class="pagelet bordered titled i1 o">
-												<img class="narrow graphic-container" src="/images/sponsors/vic_tagg.jpg">
+												<img class="narrow graphic-container" src="images/sponsors/vic_tagg.jpg">
 										                <span class="bold">Vic Tagg</span> is a long standing Ryde councillor and has been
 										                a long term supporter of our club and many other local not for profit organizations.
 										                <br/><br/>
@@ -139,7 +139,7 @@ include "sitemenu.inc";?>
 									<div class="RichTextElement">
 										<div>
 											<div class="pagelet bordered titled i1 o">
-												<img class="narrow graphic-container" src="/images/sponsors/ajm_electricals.jpg">
+												<img class="narrow graphic-container" src="images/sponsors/ajm_electricals.jpg">
 										                <span class="bold">Alex McCoy</span> is a licensed electrician with many years of
 										                commercial experience. He is a former Club Director and still manages to run on the
 										                field for a game with the other experienced blokes.
@@ -164,7 +164,7 @@ include "sitemenu.inc";?>
 											<div class="pagelet bordered titled i1 o">
 												<a href="http://www.tonyscellars.com.au/" target="_blank">
 										                <img class="narrow graphic-container" alt="Click for further information"
-										                src="/images/sponsors/tonys_cellars.jpg"></a>
+										                src="images/sponsors/tonys_cellars.jpg"></a>
 										                <span class="bold">Tony and his crew</span> have been supplying premium wines to the
 										                retail trade for more than 30 years. Our premium wine buyers have many years experience
 										                with the Australian Wine and Liquor Market. "Our mission is to provide only the best

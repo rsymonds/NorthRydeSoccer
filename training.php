@@ -22,7 +22,7 @@ include "sitemenu.inc";?>
                     <a target="_blank" href="http://www.ghfa.com.au/showground.pip?gid=769">North Ryde Oval</a>
                     is situated on the corner of Cressy and Pittwater Roads in North Ryde&nbsp;
                     <a target="_blank" href="http://maps.google.com.au/maps?li=d&amp;hl=en&amp;f=d&amp;iwstate1=dir:to&amp;daddr=Cressy+Road+and+Pittwater+Road,+North+Ryde+NSW&amp;geocode=CQqSD7JgRI6eFcXO7_0dj7_8CA&amp;iwloc=1&amp;cid=2403214188418796773&amp;ei=F6qkStrHKoWOsAOs9ZDIBQ">
-                    <img class="top noborder" src="/images/objects/google_maps.jpg" alt="Click for Google Maps"></a>
+                    <img class="top noborder" src="images/objects/google_maps.jpg" alt="Click for Google Maps"></a>
                     <br/><br/>
                     The flood lights are switched on remotely by
                     <a href="mailto:waynefowler@optusnet.com.au">Wayne Fowler</a> or
@@ -34,7 +34,7 @@ include "sitemenu.inc";?>
                     <br/><br/>
                     Please keep the grounds in good order and clean up any rubbish before you leave. Thank
                     you for your support.&nbsp;
-                    <img class="bottom noborder" src="../images/objects/smiley_smiling.gif">
+                    <img class="bottom noborder" src="images/objects/smiley_smiling.gif">
 		</p>
 		<p>
 		<table cellspacing="0" cellpadding="8">

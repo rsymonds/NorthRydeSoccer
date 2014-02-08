@@ -24,10 +24,10 @@ include "sitemenu.inc";?>
 								<div>
 									<p>
 									<ul>
-									<li><a href="/documents/library/Fee Announcement- 2013.pdf" title="Registration Fees"><span class="in">2013 Registration Fees</span></a></li>
-									<li><a href="/documents/library/Fee Announcement- 2013.pdf" title="Registration Fees"><span class="in">2013 Registration Form</span></a></li>
-									<li><a href="/documents/library/Fee Announcement- 2013.pdf" title="Registration Fees"><span class="in">2013 Insurance Form</span></a></li>
-									<li><a href="/documents/library/Fee Announcement- 2013.pdf" title="Registration Fees"><span class="in">FFA Registration Form</span></a></li>
+									<li><a href="documents/library/Fee Announcement- 2013.pdf" title="Registration Fees"><span class="in">2013 Registration Fees</span></a></li>
+									<li><a href="documents/library/Fee Announcement- 2013.pdf" title="Registration Fees"><span class="in">2013 Registration Form</span></a></li>
+									<li><a href="documents/library/Fee Announcement- 2013.pdf" title="Registration Fees"><span class="in">2013 Insurance Form</span></a></li>
+									<li><a href="documents/library/Fee Announcement- 2013.pdf" title="Registration Fees"><span class="in">FFA Registration Form</span></a></li>
 									</ul>
 									</p>
 								</div>
@@ -39,11 +39,11 @@ include "sitemenu.inc";?>
 								<div>
 									<p>
 									<ul>
-									<li><a href="/documents/library/substitution_sheet_4_a_side.pdf" title="Four-a-Side"><span class="in">Four-a-Side</span></a></li>
-									<li><a href="/documents/library/substitution_sheet_5_a_side.pdf" title="Five-a-Side"><span class="in">Five-a-Side</span></a></li>
-									<li><a href="/documents/library/substitution_sheet_7_a_side.pdf" title="Seven-a-Side"><span class="in">Seven-a-Side</span></a></li>
-									<li><a href="/documents/library/substitution_sheet_9_a_side.pdf" title="Nine-a-Side"><span class="in">Nine-a-Side</span></a></li>
-									<li><a href="/documents/library/substitution_sheet_11_a_side.pdf" title="Eleven-a-Side"><span class="in">Eleven-a-Side</span></a></li>
+									<li><a href="documents/library/substitution_sheet_4_a_side.pdf" title="Four-a-Side"><span class="in">Four-a-Side</span></a></li>
+									<li><a href="documents/library/substitution_sheet_5_a_side.pdf" title="Five-a-Side"><span class="in">Five-a-Side</span></a></li>
+									<li><a href="documents/library/substitution_sheet_7_a_side.pdf" title="Seven-a-Side"><span class="in">Seven-a-Side</span></a></li>
+									<li><a href="documents/library/substitution_sheet_9_a_side.pdf" title="Nine-a-Side"><span class="in">Nine-a-Side</span></a></li>
+									<li><a href="documents/library/substitution_sheet_11_a_side.pdf" title="Eleven-a-Side"><span class="in">Eleven-a-Side</span></a></li>
 									</ul>
 									</p>
 								</div>
@@ -55,11 +55,11 @@ include "sitemenu.inc";?>
 								<div>
 									<p>
 									<ul>
-									<li><a href="/documents/library/award_certificate_ideas.doc" title="Awards & Certificates"><span class="in">Awards & Certificates</span></a></li>
-									<li><a href="/documents/library/award_certificate_template.ppt" title="Certificate Template"><span class="in">Certificate Template</span></a></li>
-									<li><a href="/documents/library/award_player_of_the_week.pdf" title="Player Of The Week"><span class="in">Player Of The Week</span></a></li>
-									<li><a href="/documents/library/small_sided_games_quick_guide.doc" title="Small Sided Game Guide"><span class="in">Small Sided Game Guide</span></a></li>
-									<li><a href="/documents/library/small_sided_games_helpful_hints.pdf" title="Small Sided Game Hints"><span class="in">Small Sided Game Hints</span></a></li>
+									<li><a href="documents/library/award_certificate_ideas.doc" title="Awards & Certificates"><span class="in">Awards & Certificates</span></a></li>
+									<li><a href="documents/library/award_certificate_template.ppt" title="Certificate Template"><span class="in">Certificate Template</span></a></li>
+									<li><a href="documents/library/award_player_of_the_week.pdf" title="Player Of The Week"><span class="in">Player Of The Week</span></a></li>
+									<li><a href="documents/library/small_sided_games_quick_guide.doc" title="Small Sided Game Guide"><span class="in">Small Sided Game Guide</span></a></li>
+									<li><a href="documents/library/small_sided_games_helpful_hints.pdf" title="Small Sided Game Hints"><span class="in">Small Sided Game Hints</span></a></li>
 									</ul>
 									</p>
 								</div>
@@ -71,9 +71,9 @@ include "sitemenu.inc";?>
 								<div>
 									<p>
 									<ul>
-									<li><a href="/documents/library/manager_duties_minis.doc" title="Managers Duties - Minis"><span class="in">Managers Duties - Minis</span></a></li>
-									<li><a href="/documents/library/coaches_and_officials_guidelines.doc" title="General Guidelines"><span class="in">General Guidelines</span></a></li>
-									<li><a href="/documents/library/coaches_and_managers_season_preparation.pdf" title="Season Preparation"><span class="in">Season Preparation</span></a></li>
+									<li><a href="documents/library/manager_duties_minis.doc" title="Managers Duties - Minis"><span class="in">Managers Duties - Minis</span></a></li>
+									<li><a href="documents/library/coaches_and_officials_guidelines.doc" title="General Guidelines"><span class="in">General Guidelines</span></a></li>
+									<li><a href="documents/library/coaches_and_managers_season_preparation.pdf" title="Season Preparation"><span class="in">Season Preparation</span></a></li>
 									</ul>
 									</p>
 								</div>
@@ -85,10 +85,10 @@ include "sitemenu.inc";?>
 								<div>
 									<p>
 									<ul>
-									<li><a href="/documents/library/nrsc_declaration.pdf" title="NRSC Declaration"><span class="in">NRSC Declaration</span></a></li>
-									<li><a href="/documents/library/working_with_children_declaration.pdf" title="WWC Declaration"><span class="in">WWC Declaration</span></a></li>
-									<li><a href="/documents/library/code_of_conduct.pdf" title="Code of Conduct"><span class="in">Code of Conduct</span></a></li>
-									<li><a href="/documents/library/id_card_instructions.pdf" title="Id Card Instructions"><span class="in">Id Card Instructions</span></a></li>
+									<li><a href="documents/library/nrsc_declaration.pdf" title="NRSC Declaration"><span class="in">NRSC Declaration</span></a></li>
+									<li><a href="documents/library/working_with_children_declaration.pdf" title="WWC Declaration"><span class="in">WWC Declaration</span></a></li>
+									<li><a href="documents/library/code_of_conduct.pdf" title="Code of Conduct"><span class="in">Code of Conduct</span></a></li>
+									<li><a href="documents/library/id_card_instructions.pdf" title="Id Card Instructions"><span class="in">Id Card Instructions</span></a></li>
 									</ul>
 									</p>
 								</div>
