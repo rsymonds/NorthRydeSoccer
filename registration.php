@@ -13,7 +13,8 @@ include "sitemenu.inc";?>
 							<h2 class="title"><span class="in">Registration</span></h2>
 							<div class="article">
 								<div class="article-content">
-	
+	<div class="RichTextElement">
+		<div>
             <div class="CSSTableGenerator" >
                                         <table >
                                             <tr>
@@ -194,7 +195,8 @@ include "sitemenu.inc";?>
                                             </tr>
                                         </table>
                                     </div>
-		
+		</div>
+	</div>
 </div> <!-- /article-content -->
 								<div class="article-info">
 								</div> <!-- /article-info -->
