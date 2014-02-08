@@ -46,25 +46,12 @@ include "sitemenu.inc";?>
 						<div id="main-top"></div>
                             				<div id="main-content">
                             				
-                            				<h2 class="title"><span class="in">North Ryde Soccer Club 2014 – Outline of the support that your club needs from you</span></h2>
+                            				<h2 class="title"><span class="in">North Ryde Soccer Club 2014 Registration</span></h2>
 								<div class="article">
 									<div class="article-content">
 										<div class="RichTextElement">
-											<div><p>The management of our Club involves a lot of work. This workload is spread across: preparation for the season, in pre-season, during the season and post season.
-<br/><br/>
-The Club is currently seeking assistance in the management of the club and we need to hear from existing members who are able to give of their time. The way our club currently works is that a few do a heck of a lot and a lot do very little. The approach we need to embrace to move forward is to create a fairer balance.
- <br/><br/>
-Believe it or not, every single one of us is busy these days and struggles with the commitments of work and family and staying on top of all our commitments. This club provides enormous value and enjoyment to our members and we ask you to contribute to share the load. The efforts you provide will provide great benefits to our club.
- 
- <br/><br/>
-In preparation for the 2014 season, we have already had great people step up to assist with key roles.
- <br/><br/>
-We are looking for more support in the Administration of the Club and seek club members who can take on one of the key tasks and make it happen and we seek club members with the ability to manage these people who help with these tasks.
- <br/><br/>
-As well, we are currently looking for the future leaders of our club and we encourage new talent to put their hand up to get involved to ensure the sustained success of our club.
- <br/><br/>
-We need to fill these roles as a matter of urgency so that we do not compromise the preparations for the upcoming season. The committee are meeting on THURSDAY 30th January, 7pm at North Ryde RSL Club and we encourage your attendance at this meeting. We are happy to discuss what the club needs and what you have to offer.
-										
+                                            <div><p>The How and How Much of the 2014 regsitration process has been completed and the details can now be found under Player Information > Registration or by clicking <a href="">here.</a></br>
+                                            We look forward to seeing everyone back out on the paddock enjoying their football and keeping fit to boot. 
 				
 			</div>							
 											
@@ -76,7 +63,7 @@ We need to fill these roles as a matter of urgency so that we do not compromise 
 								</div> <!-- /article -->
                             				
                             				
-                            				<h2 class="title"><span class="in">2014 Preliminary Timeline</span></h2>
+                            				<h2 class="title"><span class="in">2014 Registration dates</span></h2>
 								<div class="article">
 									<div class="article-content">
 										<div class="RichTextElement">
