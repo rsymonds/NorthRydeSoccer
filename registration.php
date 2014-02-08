@@ -10,7 +10,7 @@ include "sitemenu.inc";?>
 					<div id="main">
 						<div id="main-top"></div>
                             						<div id="main-content">
-							<h2 class="title"><span class="in">Documents</span></h2>
+							<h2 class="title"><span class="in">Registration</span></h2>
 							<div class="article">
 								<div class="article-content">
 	<div class="RichTextElement">
@@ -23,9 +23,9 @@ include "sitemenu.inc";?>
 							<div class="article-summary">
 								<div>
 									<p>
-									<div class="CSSTableGenerator" >
+									
                                         <table >
-                                            <tr>
+                                            <th>
                                                 <td>
                                                     Age Group
                                                 </td>
@@ -35,7 +35,7 @@ include "sitemenu.inc";?>
                                                 <td>
                                                     Full Fee
                                                 </td>
-                                            </tr>
+                                            </th>
                                             <tr>
                                                 <td >
                                                     Under 6  - Boys and Girls
@@ -202,7 +202,7 @@ include "sitemenu.inc";?>
                                                 </td>
                                             </tr>
                                         </table>
-                                    </div>
+                                   
 									</p>
 								</div>
 							</div>
