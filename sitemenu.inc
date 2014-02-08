@@ -8,10 +8,10 @@
 			<li class="i3 o hasSubmenu <?php echo ($currentPage == 'PLAYER' ? 'currentPage"><span class="in">Player Information</span>' : '"><a href="#" title="Player Information"><span class="in">Player Information</span></a>') ?>
 				<ul class="isSubMenu">
                     <li class="i1 o <?php echo ($currentPage == 'REGISTRATION' ? 'currentPage"><span class="in">Registration</span></li>' : '"><a href="registration.php" title="Registration"><span class="in">Registration</span></a></li>') ?>
-					<li class="i1 o <?php echo ($currentPage == 'TRAINING' ? 'currentPage"><span class="in">Training</span></li>' : '"><a href="training.php" title="Training"><span class="in">Training</span></a></li>') ?>
-					<li class="i2 e <?php echo ($currentPage == 'GROUNDS' ? 'currentPage"><span class="in">Grounds</span></li>' : '"><a href="grounds.php" title="Grounds"><span class="in">Grounds</span></a></li>') ?>
-					<li class="i3 o <?php echo ($currentPage == 'LIBRARY' ? 'currentPage"><span class="in">Library</span></li>' : '"><a href="library.php" title="Library"><span class="in">Library</span></a></li>') ?>
-					<li class="i4 e <?php echo ($currentPage == 'WEATHER' ? 'currentPage"><span class="in">Wet Weather</span></li>' : '"><a href="weather.php" title="Wet Weather"><span class="in">Wet Weather</span></a></li>') ?>
+					<li class="i2 e <?php echo ($currentPage == 'TRAINING' ? 'currentPage"><span class="in">Training</span></li>' : '"><a href="training.php" title="Training"><span class="in">Training</span></a></li>') ?>
+					<li class="i3 o <?php echo ($currentPage == 'GROUNDS' ? 'currentPage"><span class="in">Grounds</span></li>' : '"><a href="grounds.php" title="Grounds"><span class="in">Grounds</span></a></li>') ?>
+					<li class="i4 e <?php echo ($currentPage == 'LIBRARY' ? 'currentPage"><span class="in">Library</span></li>' : '"><a href="library.php" title="Library"><span class="in">Library</span></a></li>') ?>
+					<li class="i5 o <?php echo ($currentPage == 'WEATHER' ? 'currentPage"><span class="in">Wet Weather</span></li>' : '"><a href="weather.php" title="Wet Weather"><span class="in">Wet Weather</span></a></li>') ?>
 				</ul>
 			</li>
 			<li class="i4 e hasSubmenu <?php echo ($currentPage == 'FIXTURES' ? 'currentPage"><span class="in">Fixtures & Results</span>' : '"><a href="fixtures.php" title="Fixtures & Results"><span class="in">Fixtures & Results</span></a>') ?>
