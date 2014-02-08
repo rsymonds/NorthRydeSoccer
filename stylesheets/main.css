@@ -1175,34 +1175,34 @@ body.allow-sidebar .gridItem h3 {
 .callout-container, .graphic-container { clear:both; }
 
 #table {
-	width: 520px;
+	width: 510px;
 	padding: 0;
 	margin: 0;
 }
 
-th {
-	font: bold 11px "Lucida Grande", "Lucida Sans Unicode", Verdana, Arial, sans-serif;
-	color: #2D66C8;
-	border-right: 1px solid #a7a8a9;
-	border-bottom: 1px solid #a7a8a9;
-	border-top: 1px solid #a7a8a9;
-	border-left: 1px solid #a7a8a9;
-	letter-spacing: 2px;
-	text-align: center;
-	padding: 6px 6px 6px 12px;
-	background: #a7a8a9;
-}
+*th {
+*	font: bold 11px "Lucida Grande", "Lucida Sans Unicode", Verdana, Arial, sans-serif;
+*	color: #2D66C8;
+*	border-right: 1px solid #a7a8a9;
+*	border-bottom: 1px solid #a7a8a9;
+*	border-top: 1px solid #a7a8a9;
+*	border-left: 1px solid #a7a8a9;
+*	letter-spacing: 2px;
+*	text-align: center;
+*	padding: 6px 6px 6px 12px;
+*	background: #a7a8a9;
+*}
 
-td {
-	font: 10px "Lucida Grande", "Lucida Sans Unicode", Verdana, Arial, sans-serif;
-	border-right: 1px solid #a7a8a9;
-	border-left: 1px solid #a7a8a9;
-	border-bottom: 1px solid #a7a8a9;
-	background: #fff;
-	padding: 6px 6px 6px 12px;
-	color: #2D66C8;
-	word-wrap: normal;
-}
+*td {
+*	font: 10px "Lucida Grande", "Lucida Sans Unicode", Verdana, Arial, sans-serif;
+*	border-right: 1px solid #a7a8a9;
+*	border-left: 1px solid #a7a8a9;
+*	border-bottom: 1px solid #a7a8a9;
+*	background: #fff;
+*	padding: 6px 6px 6px 12px;
+*	color: #2D66C8;
+*	word-wrap: normal;
+*}
 
 #Generated table code
 
