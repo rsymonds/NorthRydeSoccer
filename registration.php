@@ -16,7 +16,7 @@ include "sitemenu.inc";?>
                                     <div class="RichTextElement">
                                         <div>
                                             <div style='align:centre'>
-                                               <a href="" title="Register Online"><span class="in">Register Online</span></a>
+                                               <a href="https://live.myfootballclub.com.au/SelfReg/Login.aspx" title="Register Online"><span class="in">Click Here To Register Online</span></a>
                                             </div>
                                            When you register online as an existing player you will already have an FFA number.
 
