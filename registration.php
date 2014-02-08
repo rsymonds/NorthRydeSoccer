@@ -21,9 +21,9 @@ include "sitemenu.inc";?>
                                            When you register online as an existing player you will already have an FFA number.
 
 You need to confirm all your player details and nominate the age group you wish to play for.
-
-Payment Process (online) 
-
+                                        </br> </br>
+                                    <h3 class="index-title">Payment Process (online) </h3>
+</br> </br>
 Payment is to take place when you register.
 
 You have two choices on-line. You can pay by credit card or your can pay by EFT to the North Ryde Soccer Club.
