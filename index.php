@@ -54,7 +54,7 @@ include "sitemenu.inc";?>
                                             All returning players are now able to complete their registration online and a discount applies if this is complete before the 28th of February so get onto it and keep ten bucks in your pocket.</br></br>
                                     The activities that are taking place over the next week are:</br>
                                                 <ul>
-                                                    <li>Sunday 16th Feb - Selection session s based on skills will be taking place at Ryde East School oval. U8s and U9s (9am - 10:30am), Juniors U10 - U12 (11am - 12:30pm), Juniors U13 - U17 (1pm - 3pm)</li>
+                                                    <li>Sunday 16th Feb - Selection sessions based on skills will be taking place at Ryde East School oval. U8s and U9s (9am - 10:30am), Juniors U10 - U12 (11am - 12:30pm), Juniors U13 - U17 (1pm - 3pm)</li>
                                                     <li>Sunday 16th Feb - Registration at Ryde East School from 3pm - 6pm</li>
                                                 </ul>
                                                 
