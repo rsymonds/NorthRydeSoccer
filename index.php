@@ -50,8 +50,8 @@ include "sitemenu.inc";?>
 								<div class="article">
 									<div class="article-content">
 										<div class="RichTextElement">
-                                            <div><p>It was great to see so many new and returning players at the first registration day on Sunday. It was a great turnout and always a pleasure to meet the players from other divisions.</br>
-                                            All returning players are now able to complete their registration online and a discount applies if this is complete before the 28th of February.</br></br>
+                                            <div><p>It was great to see so many new and returning players at the first registration day on Sunday. It was a fantastic turnout and always a pleasure to meet the players from other divisions.</br>
+                                            All returning players are now able to complete their registration online and a discount applies if this is complete before the 28th of February so get onto it and keep ten bucks in your pocket.</br></br>
                                     The activities that are taking place over the next week are:</br>
                                                 <ul>
                                                     <li>Sunday 16th Feb - Selection session s based on skills will be taking place at Ryde East School oval. U8s and U9s (9am - 10:30am), Juniors U10 - U12 (11am - 12:30pm), Juniors U13 - U17 (1pm - 3pm)</li>
