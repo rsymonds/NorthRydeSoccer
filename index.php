@@ -46,13 +46,18 @@ include "sitemenu.inc";?>
 						<div id="main-top"></div>
                             				<div id="main-content">
                             				
-                            				<h2 class="title"><span class="in">North Ryde Soccer Club 2014 Registration</span></h2>
+                            				<h2 class="title"><span class="in">What's happening this week?</span></h2>
 								<div class="article">
 									<div class="article-content">
 										<div class="RichTextElement">
-                                            <div><p>The How and How Much of the 2014 registration process has been completed and the details can now be found under Player Information > Registration or by clicking <a href="registration.php">here.</a></br>
-                                            We look forward to seeing everyone back out on the paddock enjoying their football and keeping fit to boot. 
-				
+                                            <div><p>It was great to see so many new and returning players at the first registration day on Sunday. It was a great turnout and always a pleasure to meet the players from other divisions.</br>
+                                            All returning players are now able to complete their registration online and a discount applies if this is complete before the 28th of February.</br></br>
+                                    The activities that are taking place over the next week are:</br>
+                                                <ul>
+                                                    <li>Sunday 16th Feb - Selection session s based on skills will be taking place at Ryde East School oval. U8s and U9s (9am - 10:30am), Juniors U10 - U12 (11am - 12:30pm), Juniors U13 - U17 (1pm - 3pm)</li>
+                                                    <li>Sunday 16th Feb - Registration at Ryde East School from 3pm - 6pm</li>
+                                                </ul>
+                                                
 			</div>							
 											
 											
@@ -60,34 +65,7 @@ include "sitemenu.inc";?>
 									</div> <!-- /article-content -->
 									<div class="article-info">
 									</div> <!-- /article-info -->
-								</div> <!-- /article -->
-                            				
-                            				
-                            				<h2 class="title"><span class="in">2014 Registration dates</span></h2>
-								<div class="article">
-									<div class="article-content">
-										<div class="RichTextElement">
-											<div><p>It is that time of year again where the serious cricket is almost done, (and the rightful order has been restored), and the Australian Open has been played and won which means it is time to start thinking about lacing up the boots and getting back on the soccer pitch.<br/><br/>
-The club will be running a number of registration days over the coming weeks the details of which are:<br/>
-
-<ul style="padding-right: 8px;">
-			<li>Sunday 9th Feb 1pm - 4pm : North Ryde RSL - Youth Club</li>
-			<li>Sunday 16th Feb 3pm - 6pm : Ryde East School Oval</li>
-			<li>Sunday 23rd Feb 3pm - 6pm : Ryde East School Oval</li>
-			<li>Sunday 2nd Mar 3pm - 6pm : Ryde East School Oval</li>
-		</ul>
-			</div>							
-											
-											
-									                            </p></div>
-									</div> <!-- /article-content -->
-									<div class="article-info">
-									</div> <!-- /article-info -->
-								</div> <!-- /article -->
-                            				
-                            				
-									
-                            				
+								</div> <!-- /article -->                				
                             				
               				
 							</div> <!-- main-content -->
