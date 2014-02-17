@@ -50,12 +50,13 @@ include "sitemenu.inc";?>
 								<div class="article">
 									<div class="article-content">
 										<div class="RichTextElement">
-                                            <div><p>It was great to see so many new and returning players at the first registration day on Sunday. It was a fantastic turnout and always a pleasure to meet the players from other divisions.</br>
-                                            All returning players are now able to complete their registration online and a discount applies if this is complete before the 28th of February so get onto it and keep ten bucks in your pocket.</br></br>
+                                            <div><p>
                                     The activities that are taking place over the next week are:</br>
                                                 <ul>
-                                                    <li>Sunday 16th Feb - Selection sessions based on skills will be taking place at Ryde East School oval. U8s and U9s (9am - 10:30am), Juniors U10 - U12 (11am - 12:30pm), Juniors U13 - U17 (1pm - 3pm)</li>
-                                                    <li>Sunday 16th Feb - Registration at Ryde East School from 3pm - 6pm</li>
+                                                    <li>Sunday 23rd Feb - Selection sessions based on game play will be taking place at Ryde East School oval. U8s and U9s (9am - 10:30am), Juniors U10 - U12 (11am - 12:30pm), Juniors U13 - U14 (1pm - 2pm) and Juniors U15 - U18 (2pm - 3pm)</li>
+                                                    <li>Sunday 23rd Feb - Minis (U6 and U7) grading session at Magdala #2 (9am - 11am)</li>
+                                                    <li>Sunday 23rd Feb - Registration at Ryde East School from 3pm - 6pm</li>
+                                                    <li>Sunday 23rd Feb - AA, )35 and O45 catch up at Ryde East School from 3pm - 6pm</li>
                                                 </ul>
                                                 
 			</div>							
