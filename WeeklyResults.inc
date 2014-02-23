@@ -1,5 +1,5 @@
 		<?php 			$round = '17';			$date = '11 August 2012';			$ReportDate = '20120811';
-			include 'PHP/database.php';
+			include_once 'PHP/database.php';
 $dbObject = new database();
             $dbObject->getConnection();
 			$JuniorQuery = 'SELECT * FROM `Draw` WHERE year = \'2012\' and `round` = \''.$round.'\' and `age_group` in (\'09\', \'10\', \'11\',\'12\',\'13\',\'14\',\'15\',\'16\') order by age_group, division';			

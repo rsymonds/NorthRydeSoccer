@@ -1,5 +1,5 @@
 		<?php 
-		include 'PHP/database.php';
+		include_once 'PHP/database.php';
 $dbObject = new database();
             $dbObject->getConnection();
 
