@@ -1,6 +1,6 @@
 <?php readfile("headerNSB.inc"); ?>
 <!-- title -->
-<?php require_once('PHP/database.php'); ?>
+<?php include_once('PHP/database.php'); ?>
 <?php $currentPage = 'RESULTS'; 
 include "sitemenu.inc";?>
 <div class="clear below-page-top"></div>
