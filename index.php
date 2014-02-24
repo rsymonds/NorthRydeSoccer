@@ -59,11 +59,9 @@ The course takes the participants through coaching basic principles as well as â
  
 The Workshop is to be held on Sunday 2nd MARCH from 9am to 3pm at Ryde East School Oval.<br/><br/>
  
-I know it is a big investment of your time, but I also know you would get a lot out of the workshop so your investment of time will be well rewarded.<br/><br/>
+The workshop will wrap up before the Team Announcements which kick-off from 3pm on Sunday.<br/><br/>
  
-We will wrap up the workshop before the Team Announcements which kick-off from 3pm on Sunday.<br/><br/>
- 
-Let me know if you are keen or if you have any further questions. It is open to aspiring coaches, so if you know of any other NRSC people who would benefit, please
+If you are keen or if you have any further questions please email <a href="mailto:admin@northrydesoccer.com.au?subject=Coaching">admin@northrydesoccer.com.au</a>. It is open to aspiring coaches, so if you know of any other NRSC people who would benefit, please
 Pass on the message.<br/>
                                                 
 			</div>							
