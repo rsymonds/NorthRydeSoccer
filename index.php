@@ -45,19 +45,46 @@ include "sitemenu.inc";?>
 					<div id="main">
 						<div id="main-top"></div>
                             				<div id="main-content">
+                                                <h2 class="title"><span class="in">Community Coaching Training Program</span></h2>
+								<div class="article">
+									<div class="article-content">
+										<div class="RichTextElement">
+                                            <div><p>
+                                    Our Coaching and Development partners at Soccer Kickstart, are participating in a Community Coaching Training Program run by the Australia Sports Commission. <br/>
+This is part of their ongoing coach training and accreditation.<br/>
+ 
+They have invited any NRSC Coaches who wish to participant to come along and participate in the Workshop.<br/>
+ 
+The course takes the participants through coaching basic principles as well as “the Playing for life” Philosophy of coaching , keeping all the participants actively engaged at every single activity, which is a skill that is beneficial to every coach. As well it will further develop your qualifications and your experience.<br/>
+ 
+The Workshop is to be held on Sunday 2nd MARCH from 9am to 3pm at Ryde East School Oval.<br/>
+ 
+I know it is a big investment of your time, but I also know you would get a lot out of the workshop so your investment of time will be well rewarded.<br/>
+ 
+We will wrap up the workshop before the Team Announcements which kick-off from 3pm on Sunday.<br/>
+ 
+Let me know if you are keen or if you have any further questions. It is open to aspiring coaches, so if you know of any other NRSC people who would benefit, please
+Pass on the message.<br/>
+                                                
+			</div>							
+											
+											
+									                            </p></div>
+									</div> <!-- /article-content -->
+									<div class="article-info">
+									</div> <!-- /article-info -->
+								</div> <!-- /article -->
                             				
                             				<h2 class="title"><span class="in">What's happening this week?</span></h2>
 								<div class="article">
 									<div class="article-content">
 										<div class="RichTextElement">
-                                            <div><p>
-                                    The activities that are taking place over the next week are:</br>
+                                            <div><p>The clouds parted this week to produce a stunning day for a bit of kickball on Sunday allowing the club to get a good look at the talent available and the early indications are there is a lot.<br/>
+                                                We hope all new and returning players enjoyed getting out for a kick. The club is now busy putting together the list of teams we will field this year and the announcement of these teams will take place next Sunday.<br/>
+                                    <br/>The activities that are taking place over the next week are:<br/>
                                                 <ul>
-                                                    <li>Sunday 23rd Feb - Selection sessions based on game play will be taking place at Ryde East School oval. U8s and U9s (9am - 10:30am), Juniors U10 - U12 (11am - 12:30pm), Juniors U13 - U17 (1pm - 3pm)</li>
-                                                    <li>Sunday 23rd Feb - Minis (U6 and U7) grading session at North Ryde Oval (9am - 11am)</li>
-                                                    <li>Sunday 23rd Feb - All Age grading session at North Ryde Oval (11am - 6pm)</li>
-                                                    <li>Sunday 23rd Feb - Registration at Ryde East School from 3pm - 6pm</li>
-                                                    <li>Sunday 23rd Feb - AA, O35 and O45 catch up at Ryde East School from 3pm - 6pm</li>
+                                                    <li>Sunday 2nd Mar - Finalisation of teams at Ryde East School Oval U6 3pm, U7 3:45pm, U8 4:30pm, U9 5pm, U11 & U12 6pm, U13 to U17s 6:30pm.</li>
+                                                    <li>Sunday 2nd Mar - 1pm to 6pm Ryde East School Oval - Trial games and team finalisation for all senior teams. See your manager/coach for details.</li>
                                                 </ul>
                                                 
 			</div>							
