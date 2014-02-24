@@ -50,18 +50,18 @@ include "sitemenu.inc";?>
 									<div class="article-content">
 										<div class="RichTextElement">
                                             <div><p>
-                                    Our Coaching and Development partners at Soccer Kickstart, are participating in a Community Coaching Training Program run by the Australia Sports Commission. <br/>
-This is part of their ongoing coach training and accreditation.<br/>
+                                    Our Coaching and Development partners at Soccer Kickstart, are participating in a Community Coaching Training Program run by the Australia Sports Commission. <br/><br/>
+This is part of their ongoing coach training and accreditation.<br/><br/>
  
-They have invited any NRSC Coaches who wish to participant to come along and participate in the Workshop.<br/>
+They have invited any NRSC Coaches who wish to participant to come along and participate in the Workshop.<br/><br/>
  
-The course takes the participants through coaching basic principles as well as “the Playing for life” Philosophy of coaching , keeping all the participants actively engaged at every single activity, which is a skill that is beneficial to every coach. As well it will further develop your qualifications and your experience.<br/>
+The course takes the participants through coaching basic principles as well as “the Playing for life” Philosophy of coaching , keeping all the participants actively engaged at every single activity, which is a skill that is beneficial to every coach. As well it will further develop your qualifications and your experience.<br/><br/>
  
-The Workshop is to be held on Sunday 2nd MARCH from 9am to 3pm at Ryde East School Oval.<br/>
+The Workshop is to be held on Sunday 2nd MARCH from 9am to 3pm at Ryde East School Oval.<br/><br/>
  
-I know it is a big investment of your time, but I also know you would get a lot out of the workshop so your investment of time will be well rewarded.<br/>
+I know it is a big investment of your time, but I also know you would get a lot out of the workshop so your investment of time will be well rewarded.<br/><br/>
  
-We will wrap up the workshop before the Team Announcements which kick-off from 3pm on Sunday.<br/>
+We will wrap up the workshop before the Team Announcements which kick-off from 3pm on Sunday.<br/><br/>
  
 Let me know if you are keen or if you have any further questions. It is open to aspiring coaches, so if you know of any other NRSC people who would benefit, please
 Pass on the message.<br/>
