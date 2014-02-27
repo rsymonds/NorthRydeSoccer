@@ -50,6 +50,8 @@ include "sitemenu.inc";?>
 									<div class="article-content">
 										<div class="RichTextElement">
                                             <div><p>
+                                                <b>Please note there has been a last minute change of date and the coaching clinic will now be run on the 16th of March</b>
+                                                <br/>
                                     Our Coaching and Development partners at Soccer Kickstart, are participating in a Community Coaching Training Program run by the Australia Sports Commission. <br/><br/>
 This is part of their ongoing coach training and accreditation.<br/><br/>
  
@@ -57,7 +59,7 @@ They have invited any NRSC Coaches who wish to participant to come along and par
  
 The course takes the participants through coaching basic principles as well as “the Playing for life” Philosophy of coaching , keeping all the participants actively engaged at every single activity, which is a skill that is beneficial to every coach. As well it will further develop your qualifications and your experience.<br/><br/>
  
-The Workshop is to be held on Sunday 2nd MARCH from 9am to 3pm at Ryde East School Oval.<br/><br/>
+The Workshop is to be held on Sunday 16th MARCH from 9am to 3pm at Ryde East School Oval.<br/><br/>
  
 The workshop will wrap up before the Team Announcements which kick-off from 3pm on Sunday.<br/><br/>
  
